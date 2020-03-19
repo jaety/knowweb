@@ -1,4 +1,4 @@
-id,label,desc,birth_time,birth_precision,birth_placedeath_time,death_precision,death_place
+id,label,desc,birth_time,birth_precision,birth_place,death_time,death_precision,death_place
 Q23,George Washington,first President of the United States,+1732-02-22T00:00:00Z,11,Q494413,+1799-12-14T00:00:00Z,11,Q494413
 Q42,Douglas Adams,English writer and humorist,+1952-03-11T00:00:00Z,11,Q350,+2001-05-11T00:00:00Z,11,Q350
 Q1868,Paul Otlet,"Belgian author, librarian and colonial thinker",+1868-08-23T00:00:00Z,11,Q9005,+1944-12-10T00:00:00Z,11,Q9005
