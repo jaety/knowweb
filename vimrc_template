@@ -1,0 +1,5 @@
+syn on
+set number
+set tabstop=4 expandtab shiftwidth=4 smarttab
+set autoindent cindent
+colo pablo
