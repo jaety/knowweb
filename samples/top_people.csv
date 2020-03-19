@@ -1,0 +1,1000 @@
+id,label,desc,birth_time,birth_precision,birth_placedeath_time,death_precision,death_place
+Q23,George Washington,first President of the United States,+1732-02-22T00:00:00Z,11,Q494413,+1799-12-14T00:00:00Z,11,Q494413
+Q42,Douglas Adams,English writer and humorist,+1952-03-11T00:00:00Z,11,Q350,+2001-05-11T00:00:00Z,11,Q350
+Q1868,Paul Otlet,"Belgian author, librarian and colonial thinker",+1868-08-23T00:00:00Z,11,Q9005,+1944-12-10T00:00:00Z,11,Q9005
+Q207,George W. Bush,43rd President of the United States,+1946-07-06T00:00:00Z,11,Q49145,,,Q49145
+Q297,Diego Velázquez,Spanish painter (1599-1660),+1599-06-06T00:00:00Z,11,Q8717,+1660-08-06T00:00:00Z,11,Q8717
+Q368,Augusto Pinochet,"general, politician and dictator of Chile",+1915-11-25T00:00:00Z,11,Q33986,+2006-12-10T00:00:00Z,11,Q33986
+Q501,Charles Baudelaire,French poet,+1821-04-09T00:00:00Z,11,Q90,+1867-08-31T00:00:00Z,11,Q90
+Q619,Nicolaus Copernicus,"Renaissance mathematician, Polish astronomer, physician",+1473-02-19T00:00:00Z,11,Q47554,+1543-05-24T00:00:00Z,11,Q47554
+Q633,Neil Young,Canadian singer-songwriter,+1945-11-12T00:00:00Z,11,Q172,,,Q172
+Q640,Harald Krichel,German photographer; vice chair of Wikimedia Deutschland,+1969-00-00T00:00:00Z,9,Q320095,,,Q320095
+Q747,Pierre Corneille,French tragedian,+1606-06-06T00:00:00Z,11,Q30974,+1684-10-01T00:00:00Z,11,Q30974
+Q815,Gabriel Gonzáles Videla,Chilean politician,+1898-11-22T00:00:00Z,11,Q14467,+1980-08-22T00:00:00Z,11,Q14467
+Q853,Andrei Tarkovsky,"Soviet and Russian film-maker, writer, film editor, film theorist, theatre and opera director",+1932-04-04T00:00:00Z,11,Q15651436,+1986-12-29T00:00:00Z,11,Q15651436
+Q859,Plato,Classical Greek philosopher,-0427-05-07T00:00:00Z,11,Q844930,-0347-00-00T00:00:00Z,9,Q844930
+Q873,Meryl Streep,American actress,+1949-06-22T00:00:00Z,11,Q1000642,,,Q1000642
+Q946,Donald Tusk,"Polish politician, former President of the European Council, former Prime Minister of Poland, President of the European People’s Party",+1957-04-22T00:00:00Z,11,Q1792,,,Q1792
+Q997,Andrei Sakharov,Soviet nuclear physicist and human rights activist,+1921-05-21T00:00:00Z,11,Q649,+1989-12-14T00:00:00Z,11,Q649
+Q1056,Italo Balbo,Italian Marshal of the Air Force and minister,+1896-06-06T00:00:00Z,11,Q3927110,+1940-06-28T00:00:00Z,11,Q3927110
+Q1058,Narendra Modi,Prime Minister of India,+1950-09-17T00:00:00Z,11,Q2570726,,,Q2570726
+Q1149,Indira Gandhi,Indian Prime Minister and Politician,+1917-11-19T00:00:00Z,11,Q162442,+1984-10-31T00:00:00Z,11,Q162442
+Q1151,Hector Berlioz,French Romantic composer,+1803-12-11T00:00:00Z,11,Q864123,+1869-03-08T00:00:00Z,11,Q864123
+Q1228,Oscar Luigi Scalfaro,9th President of Italy,+1918-09-09T00:00:00Z,11,Q6046,+2012-01-29T00:00:00Z,11,Q6046
+Q1253,Ban Ki-moon,8th Secretary-General of the United Nations,+1944-06-13T00:00:00Z,11,Q31094,,,Q31094
+Q1254,Kofi Annan,7th Secretary-General of the United Nations,+1938-04-08T00:00:00Z,11,Q182059,+2018-08-18T00:00:00Z,11,Q182059
+Q1276,Leonard Cohen,Canadian poet and singer-songwriter,+1934-09-21T00:00:00Z,11,Q139497,+2016-11-07T00:00:00Z,11,Q139497
+Q1317,Osama bin Laden,Saudi Arabian founder of al-Qaeda,+1957-03-10T00:00:00Z,11,Q3692,+2011-05-02T00:00:00Z,11,Q3692
+Q1325,Friedrich Hayek,Austrian and British economist,+1899-05-08T00:00:00Z,11,Q1741,+1992-03-23T00:00:00Z,11,Q1741
+Q1330,José Joaquín Prieto,"Militar, Chilean politician and President",+1786-08-20T00:00:00Z,11,Q1880,+1854-11-22T00:00:00Z,11,Q1880
+Q1381,Dave Arneson,American game designer,+1947-10-01T00:00:00Z,11,Q486229,+2009-04-07T00:00:00Z,11,Q486229
+Q1416,Otho,Seventh Emperor of Ancient Rome,+0032-04-28T00:00:00Z,11,Q597347,+0069-04-16T00:00:00Z,11,Q597347
+Q1421,Titus,Emperor of Ancient Rome,+0041-00-00T00:00:00Z,9,Q220,+0081-09-13T00:00:00Z,11,Q220
+Q1511,Richard Wagner,German composer and conductor,+1813-05-22T00:00:00Z,11,Q2079,+1883-02-13T00:00:00Z,11,Q2079
+Q1526,Ramesses I,the founding Pharaoh of Ancient Egypt's Nineteenth Dynasty,-1300-00-00T00:00:00Z,7,Q309282,-1290-00-00T00:00:00Z,9,Q309282
+Q1638,Primo Nebiolo,Italian sports official and IAAF president,+1923-07-14T00:00:00Z,11,Q495,+1999-11-07T00:00:00Z,11,Q495
+Q1672,Dejen Gebremeskel,Ethiopian long-distance runner,+1989-11-24T00:00:00Z,11,Q357101,,,Q357101
+Q1681,Abel Mutai,Kenyan long-distance runner,+1988-10-02T00:00:00Z,11,Q1964569,,,Q1964569
+Q1712,Erick Barrondo,Guatemalan racewalker,+1991-06-14T00:00:00Z,11,Q284529,,,Q284529
+Q1738,Robert Grabarz,British high jumper,+1987-10-03T00:00:00Z,11,Q544939,,,Q544939
+Q1755,Tomasz Majewski,Polish shot putter,+1981-08-30T00:00:00Z,11,Q1579038,,,Q1579038
+Q1789,Ashton Eaton,American decathlete,+1988-01-21T00:00:00Z,11,Q6106,,,Q6106
+Q1812,Gordian III,Roman emperor,+0225-01-20T00:00:00Z,11,Q220,+0244-02-11T00:00:00Z,11,Q220
+Q1911,Olivier Giroud,French association football player,+1986-09-30T00:00:00Z,11,Q165090,,,Q165090
+Q1925,Yann M'Vila,French association football player,+1990-06-29T00:00:00Z,11,Q41604,,,Q41604
+Q1934,Sidney Govou,French association football player,+1979-07-27T00:00:00Z,11,Q184359,,,Q184359
+Q1936,Djibril Cissé,French association football player,+1981-08-12T00:00:00Z,11,Q48292,,,Q48292
+Q1938,Bacary Sagna,French association football player,+1983-02-14T00:00:00Z,11,Q212420,,,Q212420
+Q1956,Hermann Maier,Austrian alpine skier,+1972-12-07T00:00:00Z,11,Q255811,,,Q255811
+Q2105,Jacques Chirac,French statesman and official,+1932-11-29T00:00:00Z,11,Q90,+2019-09-26T00:00:00Z,11,Q90
+Q2185,Georges Pompidou,19th President of the French Republic,+1911-07-05T00:00:00Z,11,Q270347,+1974-04-02T00:00:00Z,11,Q270347
+Q2190,Coluche,French comedian and actor,+1944-10-28T00:00:00Z,11,Q187153,+1986-06-19T00:00:00Z,11,Q187153
+Q2496,Ludwig Erhard,Chancellor of West Germany (1963–1966),+1897-02-04T00:00:00Z,11,Q3075,+1977-05-05T00:00:00Z,11,Q3075
+Q2518,Helmut Kohl,former chancellor of West Germany (1982-1990) and then the united Germany (1990-1998),+1930-04-03T00:00:00Z,11,Q1875414,+2017-06-16T00:00:00Z,11,Q1875414
+Q2567,Richard von Weizsäcker,Governing Mayor of West Berlin and President of the Federal Republic of Germany,+1920-04-15T00:00:00Z,11,Q695076,+2015-01-31T00:00:00Z,11,Q695076
+Q2610,Willi Stoph,East German politician,+1914-07-09T00:00:00Z,11,Q313189,+1999-04-13T00:00:00Z,11,Q313189
+Q2677,Wilhelm II,German Emperor and King of Prussia,+1859-01-27T00:00:00Z,11,Q530930,+1941-06-04T00:00:00Z,11,Q530930
+Q3036,Mack Wilberg,American conductor,+1955-01-01T00:00:00Z,9,Q482891,,,Q482891
+Q3098,Georg Henrik Lybecker,early 18th century Swedish officer,+1600-00-00T00:00:00Z,8,,+1718-06-04T00:00:00Z,11,
+Q3251,Elisha E. Meredith,U.S. Representative,+1848-12-26T00:00:00Z,11,Q501051,+1900-07-29T00:00:00Z,11,Q501051
+Q3260,Hubert Clifford,Australian-born British composer and conductor,+1904-01-01T00:00:00Z,9,Q803960,+1959-01-01T00:00:00Z,9,Q803960
+Q3319,Yukiko Kobayashi,Japanese actress,+1946-10-06T00:00:00Z,11,Q1189121,,,Q1189121
+Q3374,Anne-Sophie Mutter,German violinist,+1963-06-29T00:00:00Z,11,Q16077,,,Q16077
+Q3547,Franciszek Karpiński,Polish poet,+1741-10-04T00:00:00Z,11,Q4142175,+1825-09-16T00:00:00Z,11,Q4142175
+Q3603,Jack Angel,American voice actor (born 1930),+1930-10-24T00:00:00Z,11,Q204561,,,Q204561
+Q3671,Justin Chadwick,English actor and director,+1968-12-06T00:00:00Z,11,Q47952,,,Q47952
+Q3794,Laurent Dauthuille,French boxer,+1924-02-20T00:00:00Z,11,Q193880,+1971-07-10T00:00:00Z,11,Q193880
+Q3996,V. P. Kalairajan,Indian politician,+1961-06-15T00:00:00Z,11,Q3474256,,,Q3474256
+Q4009,Ramesses IX,Egyptian pharaoh of the 20th dynasty,-1150-01-01T00:00:00Z,7,,-1111-01-01T00:00:00Z,10,
+Q4128,Louis Aragon,"French poet, novelist and editor",+1897-10-03T00:00:00Z,11,Q90,+1982-12-24T00:00:00Z,11,Q90
+Q4153,George Bournoutian,"Iranian-American professor, historian, and author of Armenian descent",+1943-09-25T00:00:00Z,11,Q42053,,,Q42053
+Q4261,Michel Platini,"French association football player, manager and executive",+1955-06-21T00:00:00Z,11,Q453411,,,Q453411
+Q4267,Adémar de Chabannes,"French monk, a historian, a musical composer and a successful literary forger",+0989-01-01T00:00:00Z,9,Q202545,+1034-01-01T00:00:00Z,9,Q202545
+Q4270,Tom DeLonge,American rock musician,+1975-12-13T00:00:00Z,11,Q540727,,,Q540727
+Q4291,Ante Bilobrk,national hero of Yugoslavia,+1919-04-03T00:00:00Z,11,,+1943-06-26T00:00:00Z,11,
+Q4293,Jon Abrahams,American film and television actor,+1977-10-29T00:00:00Z,11,Q60,,,Q60
+Q4318,Theopompus,Greek historian and rhetorician,-0400-01-01T00:00:00Z,7,Q160483,-0320-00-00T00:00:00Z,9,Q160483
+Q4328,Alberich of Reims,Archbishop of Bourges,+1085-00-00T00:00:00Z,9,,+1141-00-00T00:00:00Z,9,
+Q4441,Emily Dickinson,American poet (1830-1886),+1830-12-10T00:00:00Z,11,Q49164,+1886-05-15T00:00:00Z,11,Q49164
+Q4489,Stefanie Heinzmann,Swiss soul and pop singer,+1989-03-10T00:00:00Z,11,Q64147,,,Q64147
+Q4491,Anna Faris,"American actress, comedian and singer (*1976)",+1976-11-29T00:00:00Z,11,Q5092,,,Q5092
+Q4496,Mitt Romney,United States Senator from Utah,+1947-03-12T00:00:00Z,11,Q12439,,,Q12439
+Q4498,Beatritz de Dia,female troubadours,+1175-00-00T00:00:00Z,9,Q234270,+1225-00-00T00:00:00Z,9,Q234270
+Q4652,Mary Stewart,Scottish princess,+1453-05-13T00:00:00Z,11,Q756268,+1488-05-00T00:00:00Z,10,Q756268
+Q4671,Matthew Kneale,British writer,+1960-11-24T00:00:00Z,11,Q84,,,Q84
+Q4700,Claude Debussy,French composer,+1862-08-22T00:00:00Z,11,Q185075,+1918-03-25T00:00:00Z,11,Q185075
+Q4723,Charles II de Croÿ,"2nd Duke of Aarschot, 3rd Prince of Chimay and 3rd Count of Beaumont",+1522-07-31T00:00:00Z,11,Q668815,+1551-06-24T00:00:00Z,11,Q668815
+Q4740,Júnior César Moreira da Cunha,football striker,+1985-04-05T00:00:00Z,11,Q985611,,,Q985611
+Q4761,Ernst Mielck,Finnish composer,+1877-10-24T00:00:00Z,11,Q14657,+1899-10-22T00:00:00Z,11,Q14657
+Q4762,Roy Budd,British jazz musician and composer,+1947-03-14T00:00:00Z,11,Q687798,+1993-08-07T00:00:00Z,11,Q687798
+Q4769,Anthony Sweijs,Dutch sports shooter (1852-1937),+1852-07-18T00:00:00Z,11,Q727,+1937-09-30T00:00:00Z,11,Q727
+Q4835,Rafał Bigus,Polish basketball player,+1976-07-12T00:00:00Z,11,Q106268,,,Q106268
+Q4876,Jan de Kreek,Dutch footballer,+1903-10-11T00:00:00Z,11,Q10001,+1988-02-14T00:00:00Z,11,Q10001
+Q4896,"William Hamilton, Duke of Hamilton",Duke of Hamilton in the Peerage of Scotland (1634-1694),+1634-12-24T00:00:00Z,11,,+1694-04-18T00:00:00Z,11,
+Q4926,Birger Kildal,Norwegian politician,+1849-04-15T00:00:00Z,11,Q585,+1913-12-13T00:00:00Z,11,Q585
+Q5071,Emperor Xizong of Jin,emperor of the Jin Dynasty (1115–1234),+1119-02-28T00:00:00Z,11,,+1150-01-09T00:00:00Z,11,
+Q5072,Emperor Hailingwang of Jin,emperor of the Jin Dynasty (1115–1234),+1122-02-24T00:00:00Z,11,,+1161-12-15T00:00:00Z,11,
+Q5170,Blondel de Nesle,French trouvère,+1155-01-01T00:00:00Z,9,Q12770,+1202-00-00T00:00:00Z,7,Q12770
+Q5198,Walter of Châtillon,12th-century French writer and theologian,+1135-01-01T00:00:00Z,9,Q648,+1201-01-01T00:00:00Z,9,Q648
+Q5233,François-Édouard Picot,french painter,+1786-10-10T00:00:00Z,11,Q90,+1868-03-15T00:00:00Z,11,Q90
+Q5280,Laurent Mourguet,French puppeteer,+1769-03-03T00:00:00Z,11,Q456,+1844-12-30T00:00:00Z,11,Q456
+Q5335,Harm Wiersma,"Dutch draughts player and former politician, World champion",+1953-05-13T00:00:00Z,11,Q25390,,,Q25390
+Q5345,Boris Sket,Slovene zoologist,+1936-07-30T00:00:00Z,11,Q437,,,Q437
+Q5351,William IX,Duke of Aquitaine and Gascony and Count of Poitou,+1071-10-22T00:00:00Z,11,,+1126-02-11T00:00:00Z,11,
+Q5362,Narcis Mršić,Slovene biologist,+1951-08-02T00:00:00Z,11,Q4165497,+1997-09-16T00:00:00Z,11,Q4165497
+Q5363,Maria de Ventadorn,patron of troubadour poetry,+1180-00-00T00:00:00Z,7,,+1219-00-00T00:00:00Z,9,
+Q5380,Robert de Boron,French poet,+1200-01-01T00:00:00Z,7,Q12782,+1300-01-01T00:00:00Z,7,Q12782
+Q5383,David Bowie,"British singer, musician, and actor",+1947-01-08T00:00:00Z,11,Q146690,+2016-01-10T00:00:00Z,11,Q146690
+Q5454,Isabella Teotochi Albrizzi,Italian author,+1760-06-16T00:00:00Z,11,Q121378,+1836-09-27T00:00:00Z,11,Q121378
+Q5558,Bartolomeo Coghetto,Italian painter and musician,+1707-01-01T00:00:00Z,9,Q5475,+1793-01-01T00:00:00Z,9,Q5475
+Q5571,Andrea del Sarto,Italian painter (1486-1530),+1486-07-16T00:00:00Z,11,Q2044,+1530-09-29T00:00:00Z,11,Q2044
+Q5580,Albrecht Dürer,"German painter, printmaker, mathematician, and theorist",+1471-05-21T00:00:00Z,11,Q2090,+1528-04-06T00:00:00Z,11,Q2090
+Q5586,Katsushika Hokusai,Japanese artist,+1760-10-31T00:00:00Z,11,Q3140127,+1849-05-10T00:00:00Z,11,Q3140127
+Q5587,Marloes Horst,Dutch model,+1989-03-08T00:00:00Z,11,Q803,,,Q803
+Q5594,Antonello da Messina,Italian Renaissance painter (1430-1479),+1430-01-01T00:00:00Z,9,Q13666,+1479-01-01T00:00:00Z,9,Q13666
+Q5630,Fulcher of Chartres,chronicler of the First Crusade,+1059-01-01T00:00:00Z,9,Q130272,+1127-01-01T00:00:00Z,9,Q130272
+Q5659,Conon de Béthune,"crusader and ""trouvère"" poet, born in 1150 in north of France",+1150-00-00T00:00:00Z,9,Q159987,+1219-00-00T00:00:00Z,9,Q159987
+Q5664,Fra Angelico,early Italian Renaissance painter,+1400-01-01T00:00:00Z,9,Q82880,+1455-02-18T00:00:00Z,11,Q82880
+Q5670,Abu Nuwas,Iraqi poet,+0762-00-00T00:00:00Z,9,Q170366,+0814-01-01T00:00:00Z,9,Q170366
+Q5676,Matsuo Bashō,Japanese poet,+1644-01-01T00:00:00Z,9,Q11614939,+1694-11-28T00:00:00Z,11,Q11614939
+Q5721,Philippe Pétain,French military and political leader,+1856-04-24T00:00:00Z,11,Q368688,+1951-07-23T00:00:00Z,11,Q368688
+Q5811,Masaccio,Italian painter (1401-1428),+1401-12-21T00:00:00Z,11,Q52097,+1428-01-01T00:00:00Z,9,Q52097
+Q5816,Mao Zedong,Chairman of the Central Committee of the Communist Party of China,+1893-12-26T00:00:00Z,11,Q838542,+1976-09-09T00:00:00Z,11,Q838542
+Q5820,Mariya Savinova,Russian female 800m Olympic sprinter,+1985-08-13T00:00:00Z,11,Q906,,,Q906
+Q5921,Chuck Berry,"American recording artist; rock-and-roll guitarist, singer, songwriter",+1926-10-18T00:00:00Z,11,Q38022,+2017-03-18T00:00:00Z,11,Q38022
+Q5959,Quintus Curtius Rufus,Roman historian,,,Q41,,,Q41
+Q6105,Hebe Camargo,"Brazilian recording artist, television host, singer",+1929-03-08T00:00:00Z,11,Q170540,+2012-09-29T00:00:00Z,11,Q170540
+Q6184,Plotius Tucca,Roman poet,-0050-00-00T00:00:00Z,7,,,,
+Q6348,Caterine Ibargüen,"Colombian athlete competing in high jump, long jump and triple jump",+1984-02-12T00:00:00Z,11,Q2841,,,Q2841
+Q6363,Yevgeniya Kolodko,Russian athlete,+1990-07-22T00:00:00Z,11,Q172470,,,Q172470
+Q6419,Barbora Špotáková,Czech javelin thrower,+1981-06-30T00:00:00Z,11,Q147607,,,Q147607
+Q6427,Christina Obergföll,German athlete,+1981-08-22T00:00:00Z,11,Q7039,,,Q7039
+Q6512,Søren Kierkegaard,"Danish philosopher and theologian, precursor of Existentialism",+1813-05-05T00:00:00Z,11,Q1748,+1855-11-11T00:00:00Z,11,Q1748
+Q6950,Tess Gerritsen,Chinese-American novelist,+1953-06-12T00:00:00Z,11,Q16552,,,Q16552
+Q7186,Marie Curie,Polish-French physicist and chemist,+1867-11-07T00:00:00Z,11,Q270,+1934-07-04T00:00:00Z,11,Q270
+Q7197,Simone de Beauvoir,"French writer, intellectual, existentialist philosopher, political activist, feminist, and social theorist",+1908-01-09T00:00:00Z,11,Q90,+1986-04-14T00:00:00Z,11,Q90
+Q7203,Ziying,emperor of the Qin Dynasty,-0300-01-01T00:00:00Z,7,,-0206-00-00T00:00:00Z,9,
+Q7227,Emperor Zhao of Han,emperor of the Han Dynasty,-0094-01-01T00:00:00Z,9,Q6501000,-0074-06-05T00:00:00Z,11,Q6501000
+Q7235,Sophocles,ancient Greek playwright,-0496-01-01T00:00:00Z,9,Q1235930,-0406-01-01T00:00:00Z,9,Q1235930
+Q7237,Emperor Ai of Han,emperor of the Han Dynasty,-0027-01-01T00:00:00Z,9,Q332753,-0001-00-00T00:00:00Z,9,Q332753
+Q7249,Agnes Pockels,German chemist,+1862-02-14T00:00:00Z,11,Q641,+1935-11-21T00:00:00Z,11,Q641
+Q7262,Emperor Gengshi of Han,emperor of the Han Dynasty,,,,+0025-01-01T00:00:00Z,9,
+Q7277,Emperor Zhang of Han,emperor of the Han Dynasty,+0057-01-01T00:00:00Z,9,Q29520,+0088-04-09T00:00:00Z,11,Q29520
+Q7290,Annette Salmeen,"American swimmer, Olympic athlete, Rhodes Scholar, biochemist",+1974-12-07T00:00:00Z,11,Q485172,,,Q485172
+Q7301,Prince of Hongnong,emperor of the Han Dynasty,+0176-01-01T00:00:00Z,9,Q187136,+0190-03-06T00:00:00Z,11,Q187136
+Q7336,Otto Frank,German-born businessman and father of Anne Frank,+1889-05-12T00:00:00Z,11,Q1794,+1980-08-19T00:00:00Z,11,Q1794
+Q7339,Margot Frank,older sister of Anne Frank,+1926-02-16T00:00:00Z,11,Q1794,+1945-02-00T00:00:00Z,10,Q1794
+Q7346,John Coltrane,American jazz saxophonist,+1926-09-23T00:00:00Z,11,Q1885566,+1967-07-17T00:00:00Z,11,Q1885566
+Q7357,Emperor Hui of Jin,emperor of the Jin Dynasty (265–420),+0259-01-01T00:00:00Z,9,Q187136,+0307-01-08T00:00:00Z,11,Q187136
+Q7392,Emperor Yuan of Jin,emperor of the Jin Dynasty,+0276-01-01T00:00:00Z,9,Q187136,+0323-01-03T00:00:00Z,11,Q187136
+Q7394,Emperor Cheng of Jin,emperor of the Jin Dynasty (265–420),+0321-01-01T00:00:00Z,9,,+0342-07-26T00:00:00Z,11,
+Q7396,Emperor Mu of Jin,emperor of the Jin Dynasty (265–420),+0343-01-01T00:00:00Z,9,,+0361-01-01T00:00:00Z,9,
+Q7421,Kathryn Uhrich,American chemist,+1965-01-01T00:00:00Z,9,Q236713,,,Q236713
+Q7458,Emperor Xianzong of Western Xia,emperor of the Western Xia Dynasty,+1181-01-01T00:00:00Z,9,,+1226-01-01T00:00:00Z,9,
+Q7487,Dorothy Hodgkin,British chemist,+1910-05-12T00:00:00Z,11,Q85,+1994-07-29T00:00:00Z,11,Q85
+Q7511,Jing Li,Chinese chemist,+2000-00-00T00:00:00Z,7,Q148,,,Q148
+Q7514,Olivia Lum,Singaporean businesswoman,+2000-01-01T00:00:00Z,7,Q6359147,,,Q6359147
+Q7519,Ögedei Khan,second Great Khan of the Mongol Empire,+1185-11-07T00:00:00Z,11,,+1241-12-11T00:00:00Z,11,
+Q7534,Elizabeth J. Feinler,American information scientist,+1931-03-02T00:00:00Z,11,Q838112,,,Q838112
+Q7546,Ingmar Bergman,Swedish filmmaker (1918-2007),+1918-07-14T00:00:00Z,11,Q25286,+2007-07-30T00:00:00Z,11,Q25286
+Q7549,Sandra Lerner,American entrepreneur and animal rights activist,+1955-01-01T00:00:00Z,9,Q99,,,Q99
+Q7658,Heidi Weng,Norwegian female cross-country skier and fell runner,+1991-07-20T00:00:00Z,11,Q2427022,,,Q2427022
+Q7728,Grazia Deledda,Italian writer,+1871-09-27T00:00:00Z,11,Q13649,+1936-08-15T00:00:00Z,11,Q13649
+Q7789,Ambrogio Bergognone,Italian Renaissance painter,+1453-01-01T00:00:00Z,9,Q20050,+1523-01-01T00:00:00Z,9,Q20050
+Q7996,Ivan IV Vasilyevich,Grand Prince of Moscow and 1st Tsar of Russia,+1530-08-25T00:00:00Z,11,Q652464,+1584-03-18T00:00:00Z,11,Q652464
+Q8056,Louis Antoine de Pardaillan de Gondrin,French nobleman,+1664-09-05T00:00:00Z,11,Q90,+1736-11-02T00:00:00Z,11,Q90
+Q8289,Jamie Selkirk,New Zealand film editor and film producer,+1947-09-14T00:00:00Z,11,Q664,,,Q664
+Q8367,Hans Schmidt,German General of the Infantry,+1877-04-28T00:00:00Z,11,Q3012,+1948-06-05T00:00:00Z,11,Q3012
+Q8404,John I of France,King of France and Navarre,+1316-11-15T00:00:00Z,11,Q90,+1316-11-20T00:00:00Z,11,Q90
+Q8413,Constantine the Great,Roman emperor,+0274-02-27T00:00:00Z,11,Q129259,+0337-05-22T00:00:00Z,11,Q129259
+Q8479,Peter the Great,"Tsar and 1st Emperor, founder of the Russian Empire",+1672-05-30T00:00:00Z,11,Q649,+1725-01-28T00:00:00Z,11,Q649
+Q8511,Lorenzo di Credi,Italian Renaissance painter and sculptor (1459-1537),+1459-01-01T00:00:00Z,9,Q2044,+1537-01-12T00:00:00Z,11,Q2044
+Q8560,Yesün Temür Khan,emperor of the Yuan Dynasty,+1293-11-28T00:00:00Z,11,Q1028086,+1328-08-15T00:00:00Z,11,Q1028086
+Q8653,Ragibagh Khan,emperor of the Yuan Dynasty,+1320-01-01T00:00:00Z,9,,+1328-11-14T00:00:00Z,11,
+Q8739,Archimedes,"Greek mathematician, physicist, engineer, inventor, and astronomer",-0287-00-00T00:00:00Z,9,Q4420718,-0212-01-01T00:00:00Z,9,Q4420718
+Q8797,Aemilius Macer,Roman poet,,,Q2028,-0016-00-00T00:00:00Z,9,Q2028
+Q8814,Augustin-Louis Cauchy,French mathematician (1789–1857),+1789-08-21T00:00:00Z,11,Q90,+1857-05-23T00:00:00Z,11,Q90
+Q8816,Marc Décimo,"French writer, linguist and art historian",+1958-05-11T00:00:00Z,11,,,,
+Q8820,Lucius Varius Rufus,Roman poet,-0074-01-01T00:00:00Z,9,Q42984,-0014-01-01T00:00:00Z,9,Q42984
+Q8884,Joey Moe,Danish-Hawaiian hip-hop and pop singer and producer,+1985-07-08T00:00:00Z,11,,,,
+Q8948,Arnošt Muka,"German and Sorbian writer, linguist and man of science",+1854-03-10T00:00:00Z,11,Q160468,+1932-10-10T00:00:00Z,11,Q160468
+Q8985,Jorightu Khan Yesüder,emperor of the Northern Yuan Dynasty,+1358-01-01T00:00:00Z,9,,+1392-01-01T00:00:00Z,9,
+Q9096,Wilfred Bungei,Kenyan middle-distance runner,+1980-07-24T00:00:00Z,11,Q6344243,,,Q6344243
+Q9112,Nick Willis,New Zealand middle-distance runner,+1983-04-25T00:00:00Z,11,Q1015681,,,Q1015681
+Q9119,Kenenisa Bekele,Ethiopian long-distance runner,+1982-06-13T00:00:00Z,11,Q815044,,,Q815044
+Q9132,Sileshi Sihine,Ethiopian long-distance runner,+1983-01-29T00:00:00Z,11,Q202107,,,Q202107
+Q9146,Richard Mateelong,Kenyan long-distance runner,+1983-10-14T00:00:00Z,11,Q998813,,,Q998813
+Q9162,David Oliver,American hurdling athlete,+1982-04-24T00:00:00Z,11,Q16554,,,Q16554
+Q9293,Molon Khan,emperor of the Northern Yuan Dynasty,+1437-01-01T00:00:00Z,9,,+1454-01-01T00:00:00Z,9,
+Q9335,Tümen Jasagtu Khan,Khagan of the Northern Yuan Dynasty,+1539-01-01T00:00:00Z,9,Q711,+1592-01-01T00:00:00Z,9,Q711
+Q9348,Parmigianino,Italian Mannerist painter and printmaker (1503-1540),+1503-01-11T00:00:00Z,11,Q2683,+1540-08-24T00:00:00Z,11,Q2683
+Q9372,Sima Qian,Chinese historian and writer,-0145-01-01T00:00:00Z,9,Q769598,-0086-01-01T00:00:00Z,9,Q769598
+Q9434,Arnold Palmer,American golfer,+1929-09-10T00:00:00Z,11,Q969307,+2016-09-25T00:00:00Z,11,Q969307
+Q9458,Muhammad,Arabian religious leader and the founder of Islam,+0570-00-00T00:00:00Z,9,Q5806,+0632-06-08T00:00:00Z,11,Q5806
+Q9513,A. P. J. Abdul Kalam,"11th President of India, scientist and science administrator",+1931-10-15T00:00:00Z,11,Q12974700,+2015-07-27T00:00:00Z,11,Q12974700
+Q9543,Salman Khan,"Indian film actor, producer, playback singer, writer and television personality",+1965-12-27T00:00:00Z,11,Q66616,,,Q66616
+Q9554,Martin Luther,"Saxon priest, monk and theologian, seminal figure in Protestant Reformation",+1483-11-10T00:00:00Z,11,Q484870,+1546-02-18T00:00:00Z,11,Q484870
+Q9575,Harivansh Rai Bachchan,"Indian Hindi poet, Father of Amitabh Bachchan",+1907-11-27T00:00:00Z,11,Q1027118,+2003-01-18T00:00:00Z,11,Q1027118
+Q9588,Richard Nixon,37th President of the United States of America,+1913-01-09T00:00:00Z,11,Q493518,+1994-04-22T00:00:00Z,11,Q493518
+Q9605,Sarah Allen,American software developer,+2000-00-00T00:00:00Z,7,,,,
+Q9671,Michael Schumacher,German racing driver,+1969-01-03T00:00:00Z,11,Q4060,,,Q4060
+Q9675,Kelly Smith,English footballer,+1978-10-29T00:00:00Z,11,Q2598,,,Q2598
+Q9753,Emperor Daizong of Tang,emperor of the Tang Dynasty,+0727-01-09T00:00:00Z,11,Q187136,+0779-05-23T00:00:00Z,11,Q187136
+Q9760,Emperor Shunzong of Tang,emperor of the Tang Dynasty,+0761-01-01T00:00:00Z,9,Q6501000,+0806-02-11T00:00:00Z,11,Q6501000
+Q9983,Zhengtong Emperor,emperor of the Ming Dynasty,+1427-11-29T00:00:00Z,11,Q956,+1464-02-23T00:00:00Z,11,Q956
+Q9994,Hongzhi Emperor,emperor of the Ming Dynasty,+1470-07-30T00:00:00Z,11,Q956,+1505-06-08T00:00:00Z,11,Q956
+Q10007,Zhengde Emperor,emperor of the Ming Dynasty,+1491-10-26T00:00:00Z,11,Q956,+1521-04-20T00:00:00Z,11,Q956
+Q10058,Justine Smethurst,Australian softball player,+1987-01-14T00:00:00Z,11,Q3141,,,Q3141
+Q10065,Taichang Emperor,emperor of the Ming Dynasty,+1582-08-28T00:00:00Z,11,Q956,+1620-09-26T00:00:00Z,11,Q956
+Q10089,Julia Mancuso,American alpine skieri54U,+1984-03-09T00:00:00Z,11,Q49225,,,Q49225
+Q10095,Annelise Coberger,New Zealand alpine skier,+1971-09-16T00:00:00Z,11,Q79990,,,Q79990
+Q10106,Kerstin Szymkowiak,German skeleton racer,+1977-12-19T00:00:00Z,11,Q3167,,,Q3167
+Q10112,Edith Hannam,British tennis player,+1878-11-28T00:00:00Z,11,Q23154,+1951-01-16T00:00:00Z,11,Q23154
+Q10129,Lisa Raymond,American tennis player,+1973-08-10T00:00:00Z,11,Q1010236,,,Q1010236
+Q10494,Alain Prost,French racing driver,+1955-02-24T00:00:00Z,11,Q471422,,,Q471422
+Q10577,Tom Cleverley,English association football player,+1989-08-12T00:00:00Z,11,Q810196,,,Q810196
+Q10590,Gavin Mahon,English association football player,+1977-01-02T00:00:00Z,11,Q2256,,,Q2256
+Q10685,Louise Ebrel,singer,+1932-07-27T00:00:00Z,11,Q751380,,,Q751380
+Q10723,Mark Yeates,Irish association football player,+1985-01-11T00:00:00Z,11,Q990099,,,Q990099
+Q10727,Steve Leo Beleck,Cameroonian association football striker,+1993-02-21T00:00:00Z,11,Q3808,,,Q3808
+Q10732,Daniel Pudil,Czech international footballer,+1985-09-27T00:00:00Z,11,Q1085,,,Q1085
+Q10785,Cristian Battocchio,association football player,+1992-02-10T00:00:00Z,11,Q52535,,,Q52535
+Q10883,Rachel Yankey,English international association football player,+1979-11-01T00:00:00Z,11,Q84,,,Q84
+Q11079,Muḥammad ibn Jābir al-Ḥarrānī al-Battānī,"Muslim astronomer, astrologer, and mathematician",+0858-01-01T00:00:00Z,9,Q199547,+0929-01-01T00:00:00Z,9,Q199547
+Q11124,Stephen Breyer,Associate Justice of the Supreme Court of the United States,+1938-08-15T00:00:00Z,11,Q62,,,Q62
+Q11270,Fulgencio Batista,military leader of Cuba,+1901-01-16T00:00:00Z,11,Q806424,+1973-08-06T00:00:00Z,11,Q806424
+Q11470,Sue Black,British computer scientist,+1962-01-01T00:00:00Z,9,Q1017943,,,Q1017943
+Q11509,Xanana Gusmão,former President and Prime Minister of East Timor,+1946-06-20T00:00:00Z,11,Q1801231,,,Q1801231
+Q11586,Annie Easley,American mathematician and rocket scientist,+1933-04-23T00:00:00Z,11,Q79867,+2011-06-25T00:00:00Z,11,Q79867
+Q11603,Stan Coveleski,American Major League Baseball pitcher during the 1910s and 1920s who primarily threw the spitball,+1889-07-13T00:00:00Z,11,Q494164,+1984-03-20T00:00:00Z,11,Q494164
+Q11605,Adele Goldberg,American computer scientist,+1945-07-22T00:00:00Z,11,Q37320,,,Q37320
+Q11608,Anne Hutchinson,participant in the Antinomian Controversy,+1591-01-01T00:00:00Z,9,Q1876378,+1643-01-01T00:00:00Z,9,Q1876378
+Q11612,Susan L. Graham,American computer scientist,+1942-09-16T00:00:00Z,11,Q37320,,,Q37320
+Q11625,Ashawna Hailey,American computer scientist and philanthropist,+1949-10-08T00:00:00Z,11,Q49273,+2011-10-14T00:00:00Z,11,Q49273
+Q11674,David Paterson,55th Governor of New York,+1954-05-20T00:00:00Z,11,Q18419,,,Q18419
+Q11735,Michael Spindelegger,Austrian lawyer and politician,+1959-12-21T00:00:00Z,11,Q277965,,,Q277965
+Q11812,Thomas Jefferson,3rd President of the United States of America,+1743-04-13T00:00:00Z,11,Q4179352,+1826-07-04T00:00:00Z,11,Q4179352
+Q11881,John Tyler,10th President of the United States (in office from 1841 to 1845),+1790-03-29T00:00:00Z,11,Q337348,+1862-01-18T00:00:00Z,11,Q337348
+Q11891,James K. Polk,"American politician, 11th President of the United States (in office from 1845 to 1849)",+1795-11-02T00:00:00Z,11,Q2029607,+1849-06-15T00:00:00Z,11,Q2029607
+Q11966,Bafétimbi Gomis,French association football player,+1985-08-06T00:00:00Z,11,Q208866,,,Q208866
+Q12087,Austregésilo de Athayde,Brazilian writer and journalist,+1898-09-25T00:00:00Z,11,Q622830,+1993-09-13T00:00:00Z,11,Q622830
+Q12105,Sergio Bonelli,Italian comic book author,+1932-12-02T00:00:00Z,11,Q490,+2011-09-26T00:00:00Z,11,Q490
+Q12325,James Buchanan,"American politician, 15th President of the United States (in office from 1857 to 1861)",+1791-04-23T00:00:00Z,11,Q5178922,+1868-06-01T00:00:00Z,11,Q5178922
+Q12349,Inna,Romanian singer and songwriter,+1986-10-16T00:00:00Z,11,Q467498,,,Q467498
+Q12492,Eugenia Maniokova,"Russian tennis player, winner of 1993 French Open (mixed doubles)",+1968-05-17T00:00:00Z,11,Q649,,,Q649
+Q12628,Kálmán Kalocsay,writer of Esperanto literature,+1891-10-06T00:00:00Z,11,Q305749,+1976-02-23T00:00:00Z,11,Q305749
+Q12756,Damià Campeny i Estrany,Spanish sculptor,+1771-04-12T00:00:00Z,11,Q11492,+1855-07-07T00:00:00Z,11,Q11492
+Q12773,Julio Baghy,"Hungarian actor, author, novelist, poet, publisher and Esperantist",+1891-01-13T00:00:00Z,11,Q81581,+1967-03-18T00:00:00Z,11,Q81581
+Q12827,Beth Ditto,American singer-songwriter,+1981-02-19T00:00:00Z,11,Q79709,,,Q79709
+Q12844,Bertilo Wennergren,Swedish Esperantist,+1956-10-04T00:00:00Z,11,Q34,,,Q34
+Q12871,Simon the Zealot,apostle of Jesus,+0100-00-00T00:00:00Z,7,Q431382,+0107-01-01T00:00:00Z,9,Q431382
+Q12889,Detlev Blanke,interlinguistics lecturer,+1941-05-30T00:00:00Z,11,Q3879,+2016-08-20T00:00:00Z,11,Q3879
+Q12890,Franko Luin,Swedish type designer,+1941-04-06T00:00:00Z,11,Q546,+2005-09-15T00:00:00Z,11,Q546
+Q12903,Hisashi Inoue,Japanese playwright,+1934-11-16T00:00:00Z,11,Q1349146,+2010-04-09T00:00:00Z,11,Q1349146
+Q12904,Jan Stanisław Skorupski,"Polish writer, poet, essayist and Esperantist",+1938-07-18T00:00:00Z,11,Q4267656,,,Q4267656
+Q12922,Pierre-Alain Muet,member of the National Assembly of France,+1945-01-01T00:00:00Z,11,Q3351,,,Q3351
+Q12923,Jean-Louis Touraine,member of the National Assembly of France,+1945-10-08T00:00:00Z,11,Q3348,,,Q3348
+Q12931,Bernard Perrut,member of the National Assembly of France,+1957-01-24T00:00:00Z,11,Q208770,,,Q208770
+Q12939,Michel Terrot,member of the National Assembly of France,+1948-12-18T00:00:00Z,11,Q456,,,Q456
+Q12944,François-Noël Buffet,member of the Senate of France,+1963-08-28T00:00:00Z,11,,,,
+Q12964,François-Xavier Villain,member of the National Assembly of France,+1950-05-31T00:00:00Z,11,Q28520,,,Q28520
+Q12971,Leopold I of Belgium,German prince who became the first King of the Belgians,+1790-12-16T00:00:00Z,11,Q14821,+1865-12-10T00:00:00Z,11,Q14821
+Q12999,Polydoor Lippens,Belgian inventor,+1810-03-16T00:00:00Z,11,Q12440,+1889-01-01T00:00:00Z,9,Q12440
+Q13020,Tivadar Soros,"Hungarian lawyer, author and editor",+1894-01-01T00:00:00Z,9,Q1781,+1968-01-01T00:00:00Z,9,Q1781
+Q13055,Rémy Vercoutre,French football goalkeeper,+1980-06-26T00:00:00Z,11,Q769160,,,Q769160
+Q13057,Mathieu Gorgelin,French footballer,+1990-08-05T00:00:00Z,11,Q192166,,,Q192166
+Q13304,Mouhamadou Dabo,French professional footballer,+1986-11-28T00:00:00Z,11,Q3718,,,Q3718
+Q13374,Heorhiy V. Zaborsky,Belarusian architect,+1909-10-29T00:00:00Z,11,Q2280,+1999-03-27T00:00:00Z,11,Q2280
+Q13387,Iosif Langbard,Soviet Belarus architect,+1882-01-06T00:00:00Z,11,Q850714,+1951-01-03T00:00:00Z,11,Q850714
+Q13494,Jean-Pierre Papin,French association football player and manager,+1963-11-05T00:00:00Z,11,Q81997,,,Q81997
+Q13532,Merikukka Forsius,Finnish politician,+1972-08-12T00:00:00Z,11,Q1757,,,Q1757
+Q13552,Aki Rahunen,Finnish tennis player,+1971-12-24T00:00:00Z,11,Q1757,,,Q1757
+Q13888,Luchino Visconti,"Italian theatre, opera and cinema director",+1906-11-02T00:00:00Z,11,Q490,+1976-03-17T00:00:00Z,11,Q490
+Q13982,Alberto Bayo,Cuban military leader of the defeated left-wing Loyalists in the Spanish Civil War,+1892-03-27T00:00:00Z,11,Q115329,+1967-08-04T00:00:00Z,11,Q115329
+Q14010,Ursula Martin,British computer scientist,+1953-08-03T00:00:00Z,11,Q84,,,Q84
+Q14027,Tony Romo,American football player,+1980-04-21T00:00:00Z,11,Q16552,,,Q16552
+Q14042,Willy Moon,New Zealander musician,+1989-06-02T00:00:00Z,11,Q23661,,,Q23661
+Q14045,Moby,"American recording artist; musician, DJ, singer, songwriter",+1965-09-11T00:00:00Z,11,Q189074,,,Q189074
+Q14049,Spencer Fullerton Baird,"American naturalist, ornithologist, ichthyologist, museum curator, and the 2nd Secretary of the Smithsonian",+1823-02-03T00:00:00Z,11,Q237896,+1887-08-19T00:00:00Z,11,Q237896
+Q14096,Johanna Moore,computer scientist,+1950-00-00T00:00:00Z,7,,,,
+Q14098,Caryn Navy,American mathematician and computer scientist,+1953-07-05T00:00:00Z,11,,,,
+Q14101,Angela Orebaugh,American computer scientist and author,,,,,,
+Q14102,Wanda Orlikowski,American computer scientist,,,,,,
+Q14104,Susan Owicki,American computer scientist,,,,,,
+Q14106,Stormy Peters,American computer scientist,+2000-00-00T00:00:00Z,7,,,,
+Q14218,Colette Rolland,French computer scientist,+1943-12-19T00:00:00Z,11,Q1432112,,,Q1432112
+Q14252,Diane Souvaine,computer scientist,+1954-01-01T00:00:00Z,9,,,,
+Q14263,Ileana Streinu,Romanian-American computer scientist and mathematician,+2000-01-01T00:00:00Z,7,Q19660,,,Q19660
+Q14277,William Herschel,"German-born British astronomer, technical expert, and composer",+1738-11-15T00:00:00Z,11,Q1715,+1822-08-25T00:00:00Z,11,Q1715
+Q14307,Nicolas Leblanc,French chemist,+1742-12-06T00:00:00Z,11,Q1429635,+1806-01-16T00:00:00Z,11,Q1429635
+Q14430,Ignacy Daszyński,Polish politician,+1886-10-26T00:00:00Z,11,Q1019899,+1936-10-31T00:00:00Z,11,Q1019899
+Q14524,Charles Messier,French astronomer,+1730-06-26T00:00:00Z,11,Q501953,+1817-04-12T00:00:00Z,11,Q501953
+Q14655,Pelagius,first king of Asturias,+0685-00-00T00:00:00Z,9,Q5173895,+0737-01-01T00:00:00Z,9,Q5173895
+Q14718,Veikko Iivanainen,Finnish ski jumper and Nordic combined athlete,+1915-11-03T00:00:00Z,11,,+1949-11-30T00:00:00Z,11,
+Q14737,Keijo Korhonen,Finnish ski jumper,+1956-10-07T00:00:00Z,11,Q614088,,,Q614088
+Q14972,Bill Raisch,American dancer and actor,+1905-04-05T00:00:00Z,11,Q2000528,+1984-07-31T00:00:00Z,11,Q2000528
+Q14974,Vladimir the Great,grand prince of Kiev,+0958-01-01T00:00:00Z,9,Q1899,+1015-07-15T00:00:00Z,11,Q1899
+Q14989,Léon Delacroix,Belgian former prime minister,+1867-12-27T00:00:00Z,11,Q272243,+1929-10-15T00:00:00Z,11,Q272243
+Q14999,Gaston Eyskens,Belgian prime minister,+1905-04-01T00:00:00Z,11,Q12460,+1988-01-03T00:00:00Z,11,Q12460
+Q15024,Donald Tsang,Hong Kong politician,+1944-10-07T00:00:00Z,11,Q8646,,,Q8646
+Q15145,José Batlle y Ordóñez,"Politician, President of Uruguay",+1856-05-21T00:00:00Z,11,Q1335,+1929-10-20T00:00:00Z,11,Q1335
+Q15414,Robert Elias Fries,Swedish biologist,+1876-07-11T00:00:00Z,11,Q10710237,+1966-01-29T00:00:00Z,11,Q10710237
+Q15435,Vincenzo Briganti,"1766-1836, Italian botanist",+1766-06-07T00:00:00Z,11,Q81486,+1836-04-05T00:00:00Z,11,Q81486
+Q15469,William John Hamilton,"1805-1867, British geologist",+1805-07-05T00:00:00Z,11,Q2305226,+1867-06-27T00:00:00Z,11,Q2305226
+Q15482,William Jack,"1795-1822, Scottish botanist",+1795-01-29T00:00:00Z,11,Q36405,+1822-09-15T00:00:00Z,11,Q36405
+Q15512,Bershawn Jackson,American athlete,+1983-05-08T00:00:00Z,11,Q8652,,,Q8652
+Q15547,Denis Nizhegorodov,Russian Olympic race walker,+1980-07-26T00:00:00Z,11,Q18764887,,,Q18764887
+Q15615,Lil Wayne,"American rapper, singer, record executive and businessman",+1982-09-27T00:00:00Z,11,Q34404,,,Q34404
+Q15750,Timo Murama,Finnish ski jumper and Nordic combined athlete,+1913-10-15T00:00:00Z,11,Q103717,+1981-01-17T00:00:00Z,11,Q103717
+Q15751,Jarkko Määttä,Finnish ski jumper,+1994-12-28T00:00:00Z,11,Q748533,,,Q748533
+Q15769,Nikolay Ozolin,Soviet athlete and scientist,+1906-10-20T00:00:00Z,11,Q2309210,+2000-06-25T00:00:00Z,11,Q2309210
+Q15802,Daniel Passarella,Argentine association football player,+1953-05-25T00:00:00Z,11,Q2755081,,,Q2755081
+Q15803,Simon Jenko,"Slovene poet, lyricist and writer (1835–1869)",+1835-10-27T00:00:00Z,11,Q2339792,+1869-10-18T00:00:00Z,11,Q2339792
+Q15904,Milan Jesih,"Slovene poet, playwright and translator",+1950-01-01T00:00:00Z,11,Q437,,,Q437
+Q15944,Walter Breisky,"1871-1944, Austrian Beamter and politician",+1871-07-08T00:00:00Z,11,Q70,+1944-09-25T00:00:00Z,11,Q70
+Q15948,Émile Durkheim,French sociologist,+1858-04-15T00:00:00Z,11,Q173695,+1917-11-15T00:00:00Z,11,Q173695
+Q15975,Montesquieu,French social commentator and political thinker,+1689-01-18T00:00:00Z,11,Q1859459,+1755-02-10T00:00:00Z,11,Q1859459
+Q15983,Charly Gaul,professional cyclist (1932-2005),+1932-12-08T00:00:00Z,11,Q1016214,+2005-12-06T00:00:00Z,11,Q1016214
+Q15990,Gaston Geens,Belgian politician and former minister-president of Flanders,+1931-06-10T00:00:00Z,11,Q984877,+2002-06-05T00:00:00Z,11,Q984877
+Q16001,Maurice Gourdault-Montagne,French diplomat,+1953-11-16T00:00:00Z,11,Q90,,,Q90
+Q16019,Wolfgang Schäuble,"German politician (CDU), President of the Bundestag",+1942-09-18T00:00:00Z,11,Q2833,,,Q2833
+Q16285,Mario Benedetti,"Uruguayan journalist, novelist, and poet",+1920-09-14T00:00:00Z,11,Q664156,+2009-05-17T00:00:00Z,11,Q664156
+Q16378,Vijaygupta Maurya,Gujarati Science writer and story writer from India,+1909-03-26T00:00:00Z,11,Q6419912,+1992-07-10T00:00:00Z,11,Q6419912
+Q16389,Charles K. Kao,Hong Kong-British-American physicist,+1933-11-04T00:00:00Z,11,Q8686,+2018-09-23T00:00:00Z,11,Q8686
+Q16397,Bruce Lee,"Hong Kong-American actor, martial artist",+1940-11-27T00:00:00Z,11,Q7413971,+1973-07-20T00:00:00Z,11,Q7413971
+Q16426,Heinz Mellmann,German graphic artist,+1913-11-10T00:00:00Z,11,Q2916,+1945-05-05T00:00:00Z,11,Q2916
+Q16427,Clive Sarstedt,British pop music singer,+1944-01-21T00:00:00Z,11,Q200049,,,Q200049
+Q16628,Wen Jiabao,former Premier of the People's Republic of China,+1942-09-15T00:00:00Z,11,Q11736,,,Q11736
+Q16766,Andy Lau,Hong Kong actor and singer,+1961-09-27T00:00:00Z,11,Q1758870,,,Q1758870
+Q16824,Carl Junker,Austrian Journalist and Historian (1864-1928),+1864-08-10T00:00:00Z,11,Q1741,+1928-01-01T00:00:00Z,9,Q1741
+Q16867,Edgar Allan Poe,"American author, poet, editor and literary critic",+1809-01-19T00:00:00Z,11,Q100,+1849-10-07T00:00:00Z,11,Q100
+Q16996,Vsevolod Solovyov,Russian historical novelist,+1849-01-01T00:00:00Z,11,Q649,+1903-10-20T00:00:00Z,11,Q649
+Q17016,Veikko Salmenranta,Finnish ski jumper,+1927-01-09T00:00:00Z,11,,,,
+Q17084,Oiva Valonen,Finnish ski jumper and Nordic combined skier,+1911-09-27T00:00:00Z,11,,+1990-03-15T00:00:00Z,11,
+Q17131,Pontius Pilatus,"was the fifth Prefect of the Roman province of Judaea, from AD 26–36",-0012-12-01T00:00:00Z,10,Q1284,+0038-00-00T00:00:00Z,9,Q1284
+Q17500,Xavi,Spanish professional footballer,+1980-01-25T00:00:00Z,11,Q13939,,,Q13939
+Q17520,Kathleen Antonelli,Irish computer programmer,+1921-02-12T00:00:00Z,11,Q2078153,+2006-04-20T00:00:00Z,11,Q2078153
+Q17525,Sarah Bagley,American labor leader,+1806-04-19T00:00:00Z,11,Q54438,+1883-06-23T00:00:00Z,11,Q54438
+Q17693,Kate Bellingham,British engineer and television presenter,+1963-01-01T00:00:00Z,9,,,,
+Q17892,Sappho,ancient Greek lyric poet,-0630-00-00T00:00:00Z,9,Q1018197,-0570-00-00T00:00:00Z,9,Q1018197
+Q17893,John Clayton,"1694-1773, American colonial botanist",+1694-01-01T00:00:00Z,9,Q19186,+1773-12-15T00:00:00Z,11,Q19186
+Q17959,Auguste Boissonneau,French ornithologist and Ocularist,+1802-06-26T00:00:00Z,11,Q288,+1883-07-07T00:00:00Z,11,Q288
+Q18098,Attila A. Tóth,Hungarian artist,+2000-00-00T00:00:00Z,7,,,,
+Q18427,Eckhard Bick,"researcher, University of Southern Denmark, esperantist",+1958-07-16T00:00:00Z,11,,,,
+Q18436,Émile Boirac,"French philosopher, parapsychologist, promoter of Esperanto and writer",+1851-08-26T00:00:00Z,11,Q609871,+1917-09-20T00:00:00Z,11,Q609871
+Q18448,Osmo Buller,"Finnish Esperantist, former General Director of the World Esperanto Association",+1950-11-12T00:00:00Z,11,Q985456,,,Q985456
+Q18449,Montagu C. Butler,"British academic, librarian, lexicographer and musician",+1884-01-25T00:00:00Z,11,Q84,+1970-05-05T00:00:00Z,11,Q84
+Q18718,Géza Imre,Hungarian fencer,+1974-12-23T00:00:00Z,11,Q1781,,,Q1781
+Q18753,Roberto Trashorras,Spanish footballer,+1981-02-28T00:00:00Z,11,Q1444243,,,Q1444243
+Q18765,Burak Yılmaz,Turkish international footballer,+1985-07-15T00:00:00Z,11,Q6487,,,Q6487
+Q18804,Rebecca Black,"American YouTuber, recording artist, singer",+1997-06-21T00:00:00Z,11,Q49219,,,Q49219
+Q18809,Anatoly Lunacharsky,Russian Marxist revolutionary,+1875-11-11T00:00:00Z,11,Q156747,+1933-12-26T00:00:00Z,11,Q156747
+Q18918,Sam Witwer,American actor and musician,+1977-10-20T00:00:00Z,11,Q1531184,,,Q1531184
+Q18920,Steve Jablonsky,American composer,+1970-10-09T00:00:00Z,11,Q65,,,Q65
+Q18947,Laurie Holden,American and Canadian actress,+1969-12-17T00:00:00Z,11,Q65,,,Q65
+Q18950,Theo de Raadt,Leader of the OpenBSD project,+1968-05-19T00:00:00Z,11,Q3926,,,Q3926
+Q18989,Ryan Newman,"actress, singer and model from the United States",+1998-04-24T00:00:00Z,11,Q568610,,,Q568610
+Q19009,Edwin Mattison McMillan,American physicist,+1907-09-18T00:00:00Z,11,Q840678,+1991-09-07T00:00:00Z,11,Q840678
+Q19041,Daniel González Güiza,Spanish association football player,+1980-08-17T00:00:00Z,11,Q12303,,,Q12303
+Q19054,Matteo Bandello,Italian writer,+1484-00-00T00:00:00Z,9,Q17338,+1561-01-01T00:00:00Z,9,Q17338
+Q19061,William Painter,English author and translator,+1540-00-00T00:00:00Z,9,Q23298,+1594-01-01T00:00:00Z,9,Q23298
+Q19091,Pál Bajai,Franciscan monk,+1700-01-01T00:00:00Z,8,,+1700-01-01T00:00:00Z,8,
+Q19175,Arthur Percival,British army officer in the First and Second World Wars,+1887-12-26T00:00:00Z,11,Q1987354,+1966-01-31T00:00:00Z,11,Q1987354
+Q19198,Chester Bennington,American singer-songwriter,+1976-03-20T00:00:00Z,11,Q16556,+2017-07-20T00:00:00Z,11,Q16556
+Q19204,Mark Wakefield,American musician,+1974-05-31T00:00:00Z,11,,,,
+Q19234,Eddie Ng,Secretary for Education of Hong Kong,+1953-01-01T00:00:00Z,9,Q16572,,,Q16572
+Q19242,Bill Anders,astronaut,+1933-10-17T00:00:00Z,11,Q1054923,,,Q1054923
+Q19246,Amenemhat IV,Pharaoh of Egypt,-1850-00-00T00:00:00Z,7,,-1790-01-01T00:00:00Z,9,
+Q19254,Philip I,Duke of Burgundy from 1350 until his death,+1346-08-05T00:00:00Z,11,Q47828,+1361-11-21T00:00:00Z,11,Q47828
+Q19298,Sadeh,ancient Egyptian queen consort,,,,,,
+Q19365,Vicente Guaita,Spanish association football player,+1987-01-10T00:00:00Z,11,Q161945,,,Q161945
+Q19392,Éver Banega,Argentine association football player,+1988-06-29T00:00:00Z,11,Q52535,,,Q52535
+Q19469,George Mikes,Hungarian-born British author,+1912-02-15T00:00:00Z,11,Q728438,+1987-08-30T00:00:00Z,11,Q728438
+Q19497,Oscar,"Brazilian association football player, born 1991",+1991-09-09T00:00:00Z,11,Q467421,,,Q467421
+Q19837,Steve Jobs,American entrepreneur and co-founder of Apple Inc.,+1955-02-24T00:00:00Z,11,Q62,+2011-10-05T00:00:00Z,11,Q62
+Q19943,Juan Carlos I,King of Spain (1975-2014),+1938-01-05T00:00:00Z,11,Q220,,,Q220
+Q20014,Louis de Rougemont,explorer with false claims,+1847-11-12T00:00:00Z,11,Q678839,+1921-06-09T00:00:00Z,11,Q678839
+Q20018,George Biddell Airy,English mathematician and astronomer,+1801-07-27T00:00:00Z,11,Q1002826,+1892-01-02T00:00:00Z,11,Q1002826
+Q20430,Sergey Kapitsa,"Soviet and Russian physicist, TV host",+1928-02-14T00:00:00Z,11,Q350,+2012-08-14T00:00:00Z,11,Q350
+Q20550,Ocke Nerong,Schleswig-Holstein teacher and local historian,+1852-01-01T00:00:00Z,9,Q20787,+1909-01-01T00:00:00Z,9,Q20787
+Q20618,Jap Peter Hansen,North Frisian writer,+1767-07-08T00:00:00Z,11,Q27998,+1855-08-09T00:00:00Z,11,Q27998
+Q20717,Sebastian Ingrosso,Swedish DJ and producer,+1983-04-20T00:00:00Z,11,Q13383459,,,Q13383459
+Q20882,Gustave Eiffel,French civil engineer and architect,+1832-12-15T00:00:00Z,11,Q7003,+1923-12-27T00:00:00Z,11,Q7003
+Q20894,Robert Esnault-Pelterie,pioneering French aircraft designer and spaceflight theorist,+1881-11-08T00:00:00Z,11,Q275118,+1957-12-06T00:00:00Z,11,Q275118
+Q20951,Élisée Reclus,French geographer and writer,+1830-03-15T00:00:00Z,11,Q320233,+1905-07-04T00:00:00Z,11,Q320233
+Q21502,Marta Bohn-Meyer,American pilot and engineer,+1957-08-18T00:00:00Z,11,,+2005-09-18T00:00:00Z,11,
+Q21556,Mercedes Valdivieso,Chilean feminist writer,+1924-03-01T00:00:00Z,11,Q2887,+1993-08-03T00:00:00Z,11,Q2887
+Q21601,Dorothy Donaldson Buchanan,Scottish civil engineer,+1899-10-08T00:00:00Z,11,Q1247384,+1985-06-13T00:00:00Z,11,Q1247384
+Q21767,Tracy Caldwell Dyson,American chemist and NASA astronaut,+1969-08-14T00:00:00Z,11,Q534536,,,Q534536
+Q21822,Bo Xilai,former Politburo member of the Communist Party of China,+1949-07-03T00:00:00Z,11,Q956,,,Q956
+Q21863,Eleanor Coade,"British businesswoman known for manufacturing Neoclassical statues, architectural decorations and garden ornaments",+1733-06-03T00:00:00Z,11,Q134672,+1821-11-16T00:00:00Z,11,Q134672
+Q21901,Josephine Cochrane,American inventor,+1839-03-08T00:00:00Z,11,Q575659,+1913-08-03T00:00:00Z,11,Q575659
+Q22201,Jim DeMint,United States Senator from South Carolina,+1951-09-02T00:00:00Z,11,Q574192,,,Q574192
+Q22290,Olympia Snowe,United States Senator from Maine,+1947-02-21T00:00:00Z,11,Q28206,,,Q28206
+Q22513,Zhu De,Marshal of the People's Republic of China,+1886-12-01T00:00:00Z,11,Q11094022,+1976-07-06T00:00:00Z,11,Q11094022
+Q22522,Christopher Fettes,founder of the Irish Green Party,+1937-01-01T00:00:00Z,9,Q2413891,,,Q2413891
+Q22576,Santeri Paloniemi,Finnish alpine skier,+1993-11-08T00:00:00Z,11,Q207999,,,Q207999
+Q23261,Hideaki Anno,Japanese animator and film director,+1960-05-22T00:00:00Z,11,Q468765,,,Q468765
+Q23358,Stanley Bruce,"Australian politician, eighth Prime Minister of Australia",+1883-04-15T00:00:00Z,11,Q3141,+1967-08-25T00:00:00Z,11,Q3141
+Q23405,Ted Ligety,American alpine skier,+1984-08-31T00:00:00Z,11,Q23337,,,Q23337
+Q23421,Alan Foggon,former English footballer,+1950-02-23T00:00:00Z,11,Q7161759,,,Q7161759
+Q23437,William Hirstein,American philosopher,+2000-01-01T00:00:00Z,7,Q30,,,Q30
+Q23517,Ricky Gervais,"English comedian, actor, director, producer, musician, writer, and former radio presenter",+1961-06-25T00:00:00Z,11,Q161491,,,Q161491
+Q23685,Jimmy Carter,"American politician, 39th President of the United States (in office from 1977 to 1981)",+1924-10-01T00:00:00Z,11,Q608527,,,Q608527
+Q23755,Kim J. Henriksen,Danish Esperantist singer-musician,+1960-10-28T00:00:00Z,11,Q1748,,,Q1748
+Q23766,Ebenezer Howard,"British writer, founder of the garden city movement",+1850-01-29T00:00:00Z,11,Q23311,+1928-05-01T00:00:00Z,11,Q23311
+Q23860,Hans Jakob,Esperantist (1891-1967),+1891-12-15T00:00:00Z,11,Q2966,+1967-01-01T00:00:00Z,9,Q2966
+Q23880,Lila Downs,Mexican American singer-songwriter,+1968-09-19T00:00:00Z,11,Q34110,,,Q34110
+Q23884,Lou Costello,American actor and comedian,+1906-03-06T00:00:00Z,11,Q138391,+1959-03-03T00:00:00Z,11,Q138391
+Q23971,Joseph Bergaigne,Roman Catholic archbishop,+1588-01-01T00:00:00Z,9,Q12892,+1647-01-01T00:00:00Z,9,Q12892
+Q24002,Andy Panko,American professional basketball player,+1977-11-29T00:00:00Z,11,Q25280,,,Q25280
+Q24039,Digby Jones,British businessman and politician,+1955-10-28T00:00:00Z,11,Q2256,,,Q2256
+Q24040,Takashi Uchiyama,super featherweight boxer,+1979-11-10T00:00:00Z,11,Q376023,,,Q376023
+Q24042,Raúl Banfi,Uruguayan professional football player,+1914-11-14T00:00:00Z,11,Q1335,+1982-12-10T00:00:00Z,11,Q1335
+Q24074,Maksymilian Więcek,Polish hockey player,+1920-09-18T00:00:00Z,11,Q807271,+2006-12-28T00:00:00Z,11,Q807271
+Q24093,Ernest Ziaja,Polish ice hockey player,+1919-04-11T00:00:00Z,11,Q158485,+1997-01-01T00:00:00Z,9,Q158485
+Q24148,Andrey Kashechkin,Kazakhstani road racing cyclist,+1980-03-21T00:00:00Z,11,Q491123,,,Q491123
+Q24150,Anthon van Rappard,Dutch painter and draughtsman,+1858-05-14T00:00:00Z,11,Q10056,+1892-03-21T00:00:00Z,11,Q10056
+Q24164,Anthony Swarzak,baseball player from the United States,+1985-09-10T00:00:00Z,11,Q165972,,,Q165972
+Q24167,Jared Burton,baseball player from the United States,+1981-06-02T00:00:00Z,11,Q2385512,,,Q2385512
+Q24211,Aloys Thomas Raimund,Austrian politician and diplomat,+1669-03-07T00:00:00Z,11,Q1741,+1742-11-07T00:00:00Z,11,Q1741
+Q24218,Nick Cave,"American fabric sculptor, dancer, and performance artist",+1959-02-04T00:00:00Z,11,Q839802,,,Q839802
+Q24263,Helena Antonia,bearded female court dwarf,+1550-01-01T00:00:00Z,9,Q3992,+1595-01-01T00:00:00Z,9,Q3992
+Q24278,Thomas E. Gaddis,United States author,+1908-09-14T00:00:00Z,11,Q16554,+1984-10-10T00:00:00Z,11,Q16554
+Q24296,Thomas E. Ackerman,American cinematographer,+1948-09-14T00:00:00Z,11,Q486439,,,Q486439
+Q24311,Richard Meinertzhagen,"British soldier, intelligence officer and ornithologist known for theft and falsification of specimens",+1878-03-03T00:00:00Z,11,Q288781,+1967-06-17T00:00:00Z,11,Q288781
+Q24345,Alexei Maximov,"Soviet-born enamellist, portrait painter of European royals, and oil painter",+1952-01-01T00:00:00Z,9,Q15180,,,Q15180
+Q24410,Jonas Mačiulis,Lithuanian professional basketball player,+1985-02-10T00:00:00Z,11,Q4115712,,,Q4115712
+Q24455,Dan Merklinger,minor league baseball player,+1985-11-19T00:00:00Z,11,Q932601,,,Q932601
+Q24508,Kubanychbek Jumaliyev,former Prime Minister of Kyrgyzstan,+1956-04-26T00:00:00Z,11,Q487640,,,Q487640
+Q24521,Keith Padgett,Falkland Islands politician,+1901-01-01T00:00:00Z,7,,,,
+Q24635,Matteo Manassero,Italian professional golfer,+1993-04-19T00:00:00Z,11,Q46941,,,Q46941
+Q24666,Jumabek Ibraimov,Kyrgyz politician,+1944-01-01T00:00:00Z,11,Q2907806,+1999-04-04T00:00:00Z,11,Q2907806
+Q24736,Giorgi Mazniashvili,Georgian general,+1872-04-06T00:00:00Z,11,Q1518087,+1937-12-16T00:00:00Z,11,Q1518087
+Q24829,Orson Welles,"American actor, director, writer and producer",+1915-05-06T00:00:00Z,11,Q462161,+1985-10-10T00:00:00Z,11,Q462161
+Q24907,Anker Sørensen,Danish film editor and director,+1926-05-03T00:00:00Z,11,Q1748,+2010-08-19T00:00:00Z,11,Q1748
+Q24917,Joop Stokkermans,Dutch composer and pianist,+1937-02-20T00:00:00Z,11,Q43631,+2012-10-25T00:00:00Z,11,Q43631
+Q24920,Leen Buis,Dutch road cyclist,+1906-12-05T00:00:00Z,11,Q2855805,+1986-11-17T00:00:00Z,11,Q2855805
+Q24979,Jean-François-Maxime Raybaud,French philhellene officer and writer,+1795-06-19T00:00:00Z,11,Q865745,+1894-01-01T00:00:00Z,11,Q865745
+Q25011,Charles Bolden,23rd Administrator of NASA and astronaut,+1946-08-19T00:00:00Z,11,Q38453,,,Q38453
+Q25014,John Cleese,English comedian and actor,+1939-10-27T00:00:00Z,11,Q845623,,,Q845623
+Q25033,Harry Valérien,journalist from Germany,+1923-11-04T00:00:00Z,11,Q1726,+2012-10-12T00:00:00Z,11,Q1726
+Q25034,"Adalbert I, Duke of Teck",German nobleman,+1135-01-01T00:00:00Z,9,,+1195-01-01T00:00:00Z,9,
+Q25078,Terry Gilliam,"American-born British screenwriter, film director, animator, actor and member of the Monty Python comedy troupe",+1940-11-22T00:00:00Z,11,Q36091,,,Q36091
+Q25088,Muhammad al-Jawad,ninth of the Twelve Imams of Twelver Shi'ism,+0811-04-12T00:00:00Z,11,Q35484,+0835-11-27T00:00:00Z,11,Q35484
+Q25140,Zdeněk Fiala,Czech historian,+1922-05-05T00:00:00Z,11,Q1085,+1975-08-03T00:00:00Z,11,Q1085
+Q25144,Kevin Spacey,"American actor, director and producer",+1959-07-26T00:00:00Z,11,Q656185,,,Q656185
+Q25147,Franco Battiato,"Italian singer-songwriter, composer, and filmmaker",+1945-03-23T00:00:00Z,11,Q3763939,,,Q3763939
+Q25162,Fabio Fazio,Italian television presenter,+1964-11-30T00:00:00Z,11,Q13320,,,Q13320
+Q25464,Larry Allen,American football guard,+1971-11-27T00:00:00Z,11,Q65,,,Q65
+Q25483,Todd Young,United States Senator from Indiana,+1972-08-24T00:00:00Z,11,Q320514,,,Q320514
+Q25573,Jared Newson,American basketball player,+1984-09-26T00:00:00Z,11,Q79892,,,Q79892
+Q25672,Alexander von Benckendorff,Russian Cavalry General and statesman,+1782-08-06T00:00:00Z,11,Q1770,+1844-09-23T00:00:00Z,11,Q1770
+Q25679,Richard Bona,Cameroon-American jazz bassist and musician,+1967-10-28T00:00:00Z,11,Q6869583,,,Q6869583
+Q25689,"Francis Russell, 7th Duke of Bedford",British peer,+1788-05-13T00:00:00Z,11,,+1861-05-14T00:00:00Z,11,
+Q25693,Pieter Helbert Damsté,Dutch classical scholar,+1860-08-10T00:00:00Z,11,Q1807455,+1943-02-05T00:00:00Z,11,Q1807455
+Q25718,Björn Lindemann,German football player,+1984-01-23T00:00:00Z,11,Q544501,,,Q544501
+Q25735,Milorad Mažić,Serbian international association football referee,+1973-03-23T00:00:00Z,11,Q511216,,,Q511216
+Q25770,Juliana Hatfield,American guitarist/singer-songwriter and author,+1967-07-27T00:00:00Z,11,Q960402,,,Q960402
+Q25817,David Eisenbud,American mathematician,+1947-04-08T00:00:00Z,11,Q60,,,Q60
+Q25885,Louise Bjørnsen,Danish author,+1824-04-09T00:00:00Z,11,Q12333683,+1899-12-27T00:00:00Z,11,Q12333683
+Q25895,Maria Mazina,Russian women's épée fencer,+1964-04-18T00:00:00Z,11,Q649,,,Q649
+Q25901,Franck Boidin,French fencer,+1972-08-28T00:00:00Z,11,Q240858,,,Q240858
+Q25917,Rolando Tucker,Cuban fencer,+1971-12-31T00:00:00Z,11,Q1563,,,Q1563
+Q25918,Yang Shaoqi,Chinese fencer,+1976-02-08T00:00:00Z,11,,,,
+Q25942,Walther Klemm,German painter,+1883-06-18T00:00:00Z,11,Q384544,+1957-08-11T00:00:00Z,11,Q384544
+Q25970,Whitney Stevens,Panamanian-American pornographic actress,+1987-08-25T00:00:00Z,11,Q804,,,Q804
+Q25971,Mikko Paananen,Finnish rock musician,+1974-12-19T00:00:00Z,11,Q1757,,,Q1757
+Q25973,Hermann Hesse,writer (1877-1962),+1877-07-02T00:00:00Z,11,Q487921,+1962-08-09T00:00:00Z,11,Q487921
+Q25990,Richard Thoma,German doctor,+1847-12-11T00:00:00Z,11,Q178703,+1923-11-26T00:00:00Z,11,Q178703
+Q26014,Volodymyr Shekhovtsov,Ukrainian association footballer,+1963-12-03T00:00:00Z,11,Q42308,,,Q42308
+Q26036,Fred Lynn,baseball player,+1952-02-03T00:00:00Z,11,Q1297,,,Q1297
+Q26045,Varvara Myasnikova,Soviet actress of theater and cinema,+1900-09-22T00:00:00Z,11,Q656,+1978-04-25T00:00:00Z,11,Q656
+Q26053,Carlos Pena Jr,"American film and TV actor, singer-songwriter, dancer and television show host",+1989-08-15T00:00:00Z,11,Q59670,,,Q59670
+Q26069,Klaas-Jan Huntelaar,Dutch association football player,+1983-08-12T00:00:00Z,11,Q2277137,,,Q2277137
+Q26178,Felix Solis,"American actor, film director and film producer",+1971-09-17T00:00:00Z,11,Q60,,,Q60
+Q26243,Sophie Moressée-Pichot,French fencer,+1962-04-03T00:00:00Z,11,Q856205,,,Q856205
+Q26244,Elvis Gregory,Cuban fencer,+1971-05-18T00:00:00Z,11,Q1563,,,Q1563
+Q26282,Mikhail Varnakov,professional ice hockey player,+1985-03-01T00:00:00Z,11,Q891,,,Q891
+Q26295,Aksana,"Lithuanian fitness model, bodybuilder and professional wrestler",+1982-04-29T00:00:00Z,11,Q450625,,,Q450625
+Q26322,Carol Greider,American molecular biologist and Nobel laureate,+1961-04-15T00:00:00Z,11,Q16552,,,Q16552
+Q26458,Petras Mantigirdaitis,statesman of the Grand Duchy of Lithuania,+1390-00-00T00:00:00Z,9,,+1459-01-01T00:00:00Z,9,
+Q26479,Francis Cetner,Governor of Smolensk,+1650-00-00T00:00:00Z,7,Q37333,+1732-01-05T00:00:00Z,11,Q37333
+Q26636,David Giuntoli,American actor,+1980-06-18T00:00:00Z,11,Q37836,,,Q37836
+Q26639,Jesús Salazar Gómez,Cardinal Archbishop of Bogotá,+1942-09-22T00:00:00Z,11,Q2841,,,Q2841
+Q26668,Raymond Chan,Hong Kong politician,+1972-04-16T00:00:00Z,11,Q8646,,,Q8646
+Q26763,Tom Schilling,German television and film actor,+1982-02-10T00:00:00Z,11,Q64,,,Q64
+Q26806,Danny DeVito,"American actor, comedian, director and producer",+1944-11-17T00:00:00Z,11,Q2641218,,,Q2641218
+Q26848,Leon Allen White,American professional wrestler (1955-2018),+1955-05-14T00:00:00Z,11,Q849619,+2018-06-18T00:00:00Z,11,Q849619
+Q26876,Taylor Swift,American singer-songwriter,+1989-12-13T00:00:00Z,11,Q237896,,,Q237896
+Q26879,Melvil Dewey,American librarian and educator,+1851-12-10T00:00:00Z,11,Q1812896,+1931-12-26T00:00:00Z,11,Q1812896
+Q26926,Muhammad Al-Sabah,Sheikh of Kuwait,+1838-01-01T00:00:00Z,9,Q817,+1896-05-17T00:00:00Z,11,Q817
+Q26931,Evaristo Felice Dall'Abaco,Italian composer and violinist,+1675-07-12T00:00:00Z,11,Q2028,+1742-07-12T00:00:00Z,11,Q2028
+Q26985,Zhang Guangfu,official and general of the Chinese dynasty Tang Dynasty,,,,+0689-01-01T00:00:00Z,9,
+Q27078,Arnaldo Pereira,Portuguese futsal player,+1979-06-16T00:00:00Z,11,Q768261,,,Q768261
+Q27182,Rachida Dati,French politician and Member of the European Parliament,+1965-11-27T00:00:00Z,11,Q1624645,,,Q1624645
+Q27322,Jason Lewis,American actor,+1971-06-25T00:00:00Z,11,Q268873,,,Q268873
+Q27503,Chang Wanquan,Minister of Defence and State Councilor of the People's Republic of China,+1949-01-00T00:00:00Z,10,Q404763,,,Q404763
+Q27504,Frédéric Hantz,French football manager,+1966-05-30T00:00:00Z,11,Q188780,,,Q188780
+Q27517,Yassin El-Azzouzi,French footballer,+1983-01-13T00:00:00Z,11,Q318082,,,Q318082
+Q27533,Sigamary Diarra,Malian footballer,+1984-01-10T00:00:00Z,11,Q241064,,,Q241064
+Q27572,Patrick Ebert,German footballer,+1987-03-17T00:00:00Z,11,Q1711,,,Q1711
+Q27652,Kim Ji-han,South Korean actor,+1978-10-10T00:00:00Z,11,Q8684,,,Q8684
+Q27680,Ivan Obradović,Serbian footballer,+1988-07-25T00:00:00Z,11,Q714650,,,Q714650
+Q27696,Toifilou Maoulida,French footballer,+1979-06-08T00:00:00Z,11,Q2087092,,,Q2087092
+Q27733,Julien Sablé,French footballer,+1980-09-11T00:00:00Z,11,Q23482,,,Q23482
+Q27820,Lucien Gaudin,French fencer,+1886-09-27T00:00:00Z,11,Q131329,+1934-09-23T00:00:00Z,11,Q131329
+Q27913,Friedrich Paulsen,German philosopher and educator,+1846-07-16T00:00:00Z,11,Q559410,+1908-08-14T00:00:00Z,11,Q559410
+Q28106,Yuxiong,ruler of an ancient Chinese state,,,,,,
+Q28310,Scott Adkins,English actor,+1976-06-17T00:00:00Z,11,Q868196,,,Q868196
+Q28328,Arno Peters,German historian and filmmaker,+1916-05-22T00:00:00Z,11,Q162049,+2002-12-02T00:00:00Z,11,Q162049
+Q28348,Nicky Hopkins,English session musician; pianist and organist,+1944-02-24T00:00:00Z,11,Q23306,+1994-09-06T00:00:00Z,11,Q23306
+Q28542,Alvin Eliot Roth,professor,+1951-12-18T00:00:00Z,11,Q60,,,Q60
+Q28626,Draco,first legislator of Athens in Ancient Greece,-0650-01-01T00:00:00Z,8,,-0600-00-00T00:00:00Z,8,
+Q28633,Larry Alcala,editorial cartoonist and illustrator,+1926-08-18T00:00:00Z,11,Q493008,+2002-06-24T00:00:00Z,11,Q493008
+Q28777,Guan Hanqing,Chinese playwright and poet,+1210-01-01T00:00:00Z,9,Q4515514,+1280-01-01T00:00:00Z,9,Q4515514
+Q28783,Michael Buffer,American ring announcer for boxing and professional wrestling matches,+1944-11-02T00:00:00Z,11,Q1345,,,Q1345
+Q28836,John Burdon-Sanderson,English physiologist,+1828-12-21T00:00:00Z,11,Q1425428,+1905-11-23T00:00:00Z,11,Q1425428
+Q28873,Eugen Wacker,cyclist,+1974-04-17T00:00:00Z,11,Q22470,,,Q22470
+Q28899,Diponegoro,Indonesian national hero,+1785-11-11T00:00:00Z,11,Q2114397,+1855-01-08T00:00:00Z,11,Q2114397
+Q28900,John George Kemeny,"Jewish-Hungarian American mathematician, computer scientist, and educator",+1926-05-31T00:00:00Z,11,Q1781,+1992-12-26T00:00:00Z,11,Q1781
+Q28921,Hanna Schygulla,German actress and chanson singer,+1943-12-25T00:00:00Z,11,Q104302,,,Q104302
+Q29001,Bumin Qaghan,founder of the Turkic Khaganate,+0490-00-00T00:00:00Z,9,,+0552-01-01T00:00:00Z,9,
+Q29031,Charles Oman,British military historian,+1860-01-12T00:00:00Z,11,Q77731,+1946-06-23T00:00:00Z,11,Q77731
+Q29073,Gaétan Vestris,French ballet dancer,+1729-04-18T00:00:00Z,11,Q2044,+1808-09-23T00:00:00Z,11,Q2044
+Q29085,Hayam Wuruk,Javanese King,+1334-01-01T00:00:00Z,9,Q49326,+1389-01-01T00:00:00Z,9,Q49326
+Q29086,Matthew Lillard,"American actor, director and producer",+1970-01-24T00:00:00Z,11,Q28237,,,Q28237
+Q29184,Trixi Worrack,German road racing cyclist,+1981-09-28T00:00:00Z,11,Q3214,,,Q3214
+Q29194,J. Horace Round,English historian and genealogist,+1854-02-22T00:00:00Z,11,Q989616,+1928-06-24T00:00:00Z,11,Q989616
+Q29196,Thomas Boni Yayi,Beninese politician and President of Benin,+1952-07-01T00:00:00Z,11,Q1364580,,,Q1364580
+Q29216,John Campbell,British engineer,+1938-01-01T00:00:00Z,9,,,,
+Q29250,Bill Murray,American actor and comedian,+1950-09-21T00:00:00Z,11,Q578301,,,Q578301
+Q29300,Girolamo Parabosco,"Italian writer, composer, organist, and poet of the Renaissance",+1524-00-00T00:00:00Z,9,Q13329,+1557-04-21T00:00:00Z,11,Q13329
+Q29324,Sigurd Haakonsson,Norwegian nobleman (895–962),+0895-01-01T00:00:00Z,9,,+0962-01-01T00:00:00Z,9,
+Q29339,Maniche,Portuguese footballer,+1977-11-11T00:00:00Z,11,Q597,,,Q597
+Q29342,Klay Thompson,American basketball player,+1990-02-08T00:00:00Z,11,Q65,,,Q65
+Q29345,Gusti Ketuk Jelantik,Balinese Prime Minister of the state of Buleleng (died 1849),+1800-00-00T00:00:00Z,9,,+1849-01-01T00:00:00Z,9,
+Q29427,Yitzhak Mordechai,former Israeli general and politician (born 22 November 1944),+1944-11-22T00:00:00Z,11,Q796,,,Q796
+Q29473,Pietro Metastasio,Italian poet and librettist,+1698-01-03T00:00:00Z,11,Q220,+1782-04-12T00:00:00Z,11,Q220
+Q29527,Jan Davis,American engineer and astronaut,+1953-11-01T00:00:00Z,11,Q852653,,,Q852653
+Q29538,Olive Dennis,American engineer,+1885-11-20T00:00:00Z,11,Q368045,+1957-11-05T00:00:00Z,11,Q368045
+Q29544,Delia Derbyshire,English musician and composer of electronic music,+1937-05-05T00:00:00Z,11,Q6225,+2001-07-03T00:00:00Z,11,Q6225
+Q29571,Jeanne Villepreux-Power,French biologist,+1794-09-25T00:00:00Z,11,Q592833,+1871-01-25T00:00:00Z,11,Q592833
+Q29612,Louise Johnson,British biochemist and protein crystallographer,+1940-09-26T00:00:00Z,11,Q1646181,+2012-09-25T00:00:00Z,11,Q1646181
+Q29614,Anita Howard,"American college track and field athlete, international track and field athlete, sprinter",+1969-03-22T00:00:00Z,11,Q30,,,Q30
+Q29676,Toni Rüttimann,Swiss bridge builder,+1967-08-21T00:00:00Z,11,Q69259,,,Q69259
+Q29693,Hassan Mila Sesay,Sierra Leonean footballer,+1987-10-22T00:00:00Z,11,Q3780,,,Q3780
+Q29781,Robert Murray Keith,British diplomat,+1697-01-01T00:00:00Z,9,,+1774-01-01T00:00:00Z,9,
+Q29830,Vukašin Šoškoćanin,Serbian president of the Borovo commune and commander of the local Territorial Defence militia during the war in Croatia,+1958-06-24T00:00:00Z,11,Q894114,+1991-05-15T00:00:00Z,11,Q894114
+Q29835,Alodia Gosiengfiao,Filipino cosplayer and actress,+1988-03-09T00:00:00Z,11,Q1475,,,Q1475
+Q29880,Ben Botica,rugby union player,+1989-10-07T00:00:00Z,11,Q726917,,,Q726917
+Q30449,Avril Lavigne,"Canadian singer, songwriter and actress",+1984-09-27T00:00:00Z,11,Q34227,,,Q34227
+Q30567,Terry Date,American record producer,+1956-01-31T00:00:00Z,11,Q28237,,,Q28237
+Q30585,Bailey Jay,"American pornographic actress, model, and podcaster",+1988-11-05T00:00:00Z,11,Q43421,,,Q43421
+Q30767,Caroline Wozniacki,Danish tennis player,+1990-07-11T00:00:00Z,11,Q25331,,,Q25331
+Q30769,Sophus Lie,Norwegian mathematician,+1842-12-17T00:00:00Z,11,Q783301,+1899-02-18T00:00:00Z,11,Q783301
+Q30783,Sami Vatanen,Finnish ice hockey player,+1991-06-03T00:00:00Z,11,Q134620,,,Q134620
+Q30787,Melanie Oudin,American tennis player,+1991-09-23T00:00:00Z,11,Q852684,,,Q852684
+Q30865,Eike Batista,Brazilian businessman,+1956-11-03T00:00:00Z,11,Q462218,,,Q462218
+Q31129,Queen Paola of Belgium,Belgian royalty and wife of King Albert II,+1937-09-11T00:00:00Z,11,Q217133,,,Q217133
+Q31152,Hilde Hildebrand,German theater and film actress and singer,+1897-09-10T00:00:00Z,11,Q1715,+1976-04-28T00:00:00Z,11,Q1715
+Q31161,Andreas Libavius,16th century German doctor and chemist,+1555-01-01T00:00:00Z,9,Q2814,+1616-07-25T00:00:00Z,11,Q2814
+Q31178,"Francis Russell, 9th Duke of Bedford",politician from the United Kingdom,+1819-10-16T00:00:00Z,11,Q84,+1891-01-14T00:00:00Z,11,Q84
+Q31189,Joseph Dergham El Khazen,patriarch of Maronite church,,,Q20781973,+1742-05-13T00:00:00Z,11,Q20781973
+Q31191,Jacob Awad,Maronite Patriarch of Antioch,,,Q4119045,+1733-02-12T00:00:00Z,11,Q4119045
+Q31214,György Hámos,Hungarian film director,+1910-06-01T00:00:00Z,11,Q1781,+1976-01-09T00:00:00Z,11,Q1781
+Q31215,Miloš Crnjanski,"expressionist modernist poet, author, and diplomat from Austria-Hungary",+1893-10-26T00:00:00Z,11,Q649214,+1977-11-30T00:00:00Z,11,Q649214
+Q31462,Kenji Endō,Japanese musician,+1947-01-13T00:00:00Z,11,,+2017-10-25T00:00:00Z,11,
+Q31468,Xiong Sheng,fourth viscount of the state of Chu during the early Zhou Dynasty of ancient China,,,,,,
+Q31554,Jonas Kazlauskas,basketball player from Lithuania,+1954-11-21T00:00:00Z,11,Q1719466,,,Q1719466
+Q31677,Natalia Málaga,volleyball player and coach from Peru,+1964-01-26T00:00:00Z,11,Q2868,,,Q2868
+Q31695,Håkon Grjotgardsson,ruler of Trøndelag,+0838-01-01T00:00:00Z,9,,+0900-01-01T00:00:00Z,9,
+Q31722,Jean-Louis Lefebvre de Cheverus,archbishop and cardinal from France,+1768-01-28T00:00:00Z,11,Q213513,+1836-07-19T00:00:00Z,11,Q213513
+Q31735,Vladimir Kozhevnikov,football player from Russia,+1992-01-09T00:00:00Z,11,,,,
+Q31760,Jussiê Ferreira Vieira,Brazilian association football player,+1983-09-19T00:00:00Z,11,Q734635,,,Q734635
+Q31806,Sat-Okh,children's author and soldier in the Polish Resistance during World War II,+1925-04-15T00:00:00Z,11,Q2686885,+2003-07-03T00:00:00Z,11,Q2686885
+Q31873,Agustín Sauto Arana,Basque footballer,+1908-05-11T00:00:00Z,11,Q487801,+1986-08-21T00:00:00Z,11,Q487801
+Q31878,Hermidita,Spanish footballer,+1924-11-27T00:00:00Z,11,Q1607596,+2005-09-17T00:00:00Z,11,Q1607596
+Q31959,Pat Martino,Italian-American jazz guitarist and composer,+1944-08-25T00:00:00Z,11,Q1345,,,Q1345
+Q31980,José Luis Panizo,Spanish footballer,+1922-02-06T00:00:00Z,11,Q909707,+1990-02-14T00:00:00Z,11,Q909707
+Q31984,William Kennedy,American writer and journalist,+1928-01-16T00:00:00Z,11,Q24861,,,Q24861
+Q31997,Ažbe Jug,Slovenian footballer,+1992-03-03T00:00:00Z,11,Q1010,,,Q1010
+Q32014,Éverton Lopes,Brazilian amateur boxer,+1988-08-08T00:00:00Z,11,Q36947,,,Q36947
+Q32024,Sergey Shoygu,Russian political figure,+1955-05-21T00:00:00Z,11,Q197643,,,Q197643
+Q32176,Pavel Zhitkov,Kazakhstani professional ice hockey goaltender,+1984-06-04T00:00:00Z,11,Q484706,,,Q484706
+Q32187,Gaios Skordilis,Greek professional basketball player,+1987-12-06T00:00:00Z,11,Q121378,,,Q121378
+Q32297,Utkirbek Haydarov,Uzbekistani boxer,+1974-01-25T00:00:00Z,11,Q487656,,,Q487656
+Q32342,Sonali Bendre,Indian actress and model,+1975-01-01T00:00:00Z,11,Q1156,,,Q1156
+Q32404,Rosibel García,track and field athlete from Colombia,+1981-02-13T00:00:00Z,11,Q1681497,,,Q1681497
+Q32420,Ibrahim Ibrahim,Melkite Greek Catholic bishop of Canada,+1962-03-22T00:00:00Z,11,Q15619367,,,Q15619367
+Q32478,Amantle Montsho,female sprinter from Botswana,+1983-07-04T00:00:00Z,11,Q170732,,,Q170732
+Q32539,Laureano Ruiz,football player and manager from Spain,+1937-10-21T00:00:00Z,11,Q1623134,,,Q1623134
+Q32558,Viktor-Andrey Borovik-Romanov,Russian physicist,+1920-03-18T00:00:00Z,11,Q656,+1997-07-31T00:00:00Z,11,Q656
+Q32599,Bilge Tegin,sultan of Ghazni,+0901-00-00T00:00:00Z,7,,+0975-00-00T00:00:00Z,9,
+Q32615,"William VI, Duke of Aquitaine",Duke of Aquitaine,+1004-01-01T00:00:00Z,9,,+1038-12-15T00:00:00Z,11,
+Q32726,Michael Grimm,American politician,+1970-02-07T00:00:00Z,11,Q60,,,Q60
+Q32732,Malala Yousafzai,Pakistani children's education activist,+1997-07-12T00:00:00Z,11,Q31356,,,Q31356
+Q32733,Victor Mees,Belgian association football player,+1927-01-26T00:00:00Z,11,Q12892,+2012-11-11T00:00:00Z,11,Q12892
+Q32735,Iago ab Idwal ap Meurig,Prince of Gwynedd,+0974-00-00T00:00:00Z,9,,+1039-01-01T00:00:00Z,9,
+Q32763,Santillana,Spanish footballer,+1952-08-23T00:00:00Z,11,Q493817,,,Q493817
+Q32787,Miroslav Krobot,Czech actor,+1951-11-12T00:00:00Z,11,Q392692,,,Q392692
+Q32834,Sigismondo Castromediano,Italian patriot and writer,+1811-01-20T00:00:00Z,11,Q52130,+1895-08-26T00:00:00Z,11,Q52130
+Q32945,Endel Ruberg,Estonian-Canadian painter,+1917-05-21T00:00:00Z,11,Q1018594,+1989-12-29T00:00:00Z,11,Q1018594
+Q33008,Han Deok-hee,South Korean footballer,+1987-02-20T00:00:00Z,11,Q42146,,,Q42146
+Q33038,Krzysztof Wiesiołowski,Polish noble,+1580-00-00T00:00:00Z,9,,+1637-01-01T00:00:00Z,9,
+Q33083,Marie-Jeanne L'Héritier,French author of fairy tales,+1664-11-01T00:00:00Z,10,Q90,+1734-02-24T00:00:00Z,11,Q90
+Q33171,Baraguru Ramachandrappa,Kannada writer,+1946-10-18T00:00:00Z,11,Q911310,,,Q911310
+Q33371,Gregory DePalma,American mobster,+1932-04-24T00:00:00Z,11,,+2009-11-18T00:00:00Z,11,
+Q33721,Leopoldo Saínz de la Maza,Spanish polo player and Olympic silver medallist,+1879-12-22T00:00:00Z,11,Q753825,+1954-02-03T00:00:00Z,11,Q753825
+Q33866,Theodore Roosevelt,"American politician, 26th President of the United States (in office from 1901 to 1909)",+1858-10-27T00:00:00Z,11,Q904191,+1919-01-06T00:00:00Z,11,Q904191
+Q34256,Misaki Doi,Japanese tennis player,+1991-04-29T00:00:00Z,11,Q38283,,,Q38283
+Q34282,Alberto Vaquina,Mozambique politician,+1955-07-04T00:00:00Z,11,Q323801,,,Q323801
+Q34286,Alexander Graham Bell,scientist and inventor known for his work on the telephone,+1847-03-03T00:00:00Z,11,Q23436,+1922-08-02T00:00:00Z,11,Q23436
+Q34430,Edmond Boissier,"Swiss botanist, explorer and mathematician (1810-1885)",+1810-05-25T00:00:00Z,11,Q71,+1885-09-25T00:00:00Z,11,Q71
+Q34460,Gwyneth Paltrow,"American actress, entrepreneur, writer and singer",+1972-09-28T00:00:00Z,11,Q65,,,Q65
+Q34624,Giovanni Gabrieli,Italian composer,+1557-01-01T00:00:00Z,9,Q641,+1612-08-12T00:00:00Z,11,Q641
+Q34658,Michael Reiziger,Dutch footballer,+1973-05-03T00:00:00Z,11,Q9898,,,Q9898
+Q34969,Benjamin Franklin,"American author, printer, political theorist, politician, postmaster, scientist, inventor, civic activist, statesman, diplomat, Founding Father, and a therapist",+1706-01-17T00:00:00Z,11,Q100,+1790-04-17T00:00:00Z,11,Q100
+Q35155,Thomas Pynchon,American novelist,+1937-05-08T00:00:00Z,11,Q18438,,,Q18438
+Q35429,Akiho Yoshizawa,Japanese actress,+1984-03-03T00:00:00Z,11,Q1490,,,Q1490
+Q35454,Ava Vincent,American pornographic actress,+1975-09-29T00:00:00Z,11,Q927485,,,Q927485
+Q35678,Benjamin Harrison,"American politician, 23rd President of the United States (in office from 1889 to 1893)",+1833-08-20T00:00:00Z,11,Q2668659,+1901-03-13T00:00:00Z,11,Q2668659
+Q35733,Velimir Khlebnikov,Russian writer,+1885-11-08T00:00:00Z,11,Q4278606,+1922-06-28T00:00:00Z,11,Q4278606
+Q35892,Petar Drapšin,yugoslav Partisan commander,+1914-11-15T00:00:00Z,11,Q259612,+1945-11-02T00:00:00Z,11,Q259612
+Q35912,Emmy Rossum,American actress and singer-songwriter,+1986-09-12T00:00:00Z,11,Q60,,,Q60
+Q35940,Ayila Yussuf,Nigerian footballer,+1984-11-04T00:00:00Z,11,Q8673,,,Q8673
+Q35977,Alexis Texas,American pornographic actress,+1985-05-25T00:00:00Z,11,Q804,,,Q804
+Q35998,Aria Giovanni,American model and erotic glamour actress,+1977-11-03T00:00:00Z,11,Q65,,,Q65
+Q36105,Charles Bronson,American film and television actor,+1921-11-03T00:00:00Z,11,Q1133106,+2003-08-30T00:00:00Z,11,Q1133106
+Q36150,Sergei Lebedev,Russian general,+1948-04-09T00:00:00Z,11,Q572380,,,Q572380
+Q36195,Molly Quinn,American actress,+1993-10-08T00:00:00Z,11,Q844020,,,Q844020
+Q36476,Denzil Ibbetson,Administrator in British India,+1847-08-30T00:00:00Z,11,,+1908-02-21T00:00:00Z,11,
+Q36760,David IV of Georgia,King of Georgia,+1073-01-01T00:00:00Z,9,Q172415,+1125-02-08T00:00:00Z,11,Q172415
+Q36786,Stylianos of Paphlagonia,,+0350-00-00T00:00:00Z,7,Q1301195,,,Q1301195
+Q36804,Eazy-E,American rapper,+1963-09-07T00:00:00Z,11,Q487119,+1995-03-26T00:00:00Z,11,Q487119
+Q36826,Grigory Bogdanovich Bogdanov,Soviet soldier of the Second World War,+1910-02-04T00:00:00Z,11,Q20505802,+1943-10-01T00:00:00Z,11,Q20505802
+Q37001,Toshirō Mifune,Japanese actor (1920-1997),+1920-04-01T00:00:00Z,11,Q170322,+1997-12-24T00:00:00Z,11,Q170322
+Q37062,John VIII Palaiologos,Byzantine emperor,+1392-12-18T00:00:00Z,11,Q16869,+1448-10-31T00:00:00Z,11,Q16869
+Q37064,Alexander Fleming,"Scottish biologist, pharmacologist",+1881-08-06T00:00:00Z,11,Q1016753,+1955-03-11T00:00:00Z,11,Q1016753
+Q37069,Alexios IV Angelos,Byzantine emperor,+1182-00-00T00:00:00Z,9,Q16869,+1204-02-08T00:00:00Z,11,Q16869
+Q37092,Constantine Laskaris,13th-century Byzantine emperor,+1170-01-01T00:00:00Z,9,Q16869,+1205-03-19T00:00:00Z,11,Q16869
+Q37138,Alice Everett,British astronomer and engineer,+1865-01-01T00:00:00Z,9,Q4093,+1949-07-29T00:00:00Z,11,Q4093
+Q37193,Robert Koch,German physician and bacteriologist,+1843-12-11T00:00:00Z,11,Q15377091,+1910-05-27T00:00:00Z,11,Q15377091
+Q37231,Néstor Camacho,Paraguayan footballer,+1987-10-15T00:00:00Z,11,Q615791,,,Q615791
+Q37278,John Paul I,263rd Pope of the Catholic Church,+1912-10-17T00:00:00Z,11,Q40219,+1978-09-28T00:00:00Z,11,Q40219
+Q37355,John Michael Talbot,American Roman Catholic singer-songwriter,+1954-05-08T00:00:00Z,11,Q34863,,,Q34863
+Q37370,Klaus Ebner,Austrian writer,+1964-08-08T00:00:00Z,11,Q1741,,,Q1741
+Q37562,Donatello,Italian painter and sculptor,+1386-00-00T00:00:00Z,9,Q2044,+1466-12-13T00:00:00Z,11,Q2044
+Q37615,Luciano Pavarotti,Italian operatic tenor,+1935-10-12T00:00:00Z,11,Q279,+2007-09-06T00:00:00Z,11,Q279
+Q37628,Mila Kunis,American actress,+1983-08-14T00:00:00Z,11,Q157725,,,Q157725
+Q37652,Manuel de Escandón,polo player,+1857-08-13T00:00:00Z,11,Q1489,+1940-12-13T00:00:00Z,11,Q1489
+Q37682,Sejong the Great,the fourth king of Joseon,+1397-05-07T00:00:00Z,11,Q8684,+1450-03-30T00:00:00Z,11,Q8684
+Q37772,Johannes Nielsen,Danish actor and director (1870-1935),+1870-09-14T00:00:00Z,11,,+1935-12-20T00:00:00Z,11,
+Q38203,Helen Keller,"U.S. author and political activist for women's suffrage, labor rights, socialism, and antimilitarism; the 1st deaf-blind person to earn a bachelor's degree",+1880-06-27T00:00:00Z,11,Q79606,+1968-06-01T00:00:00Z,11,Q79606
+Q38257,Enya,"Irish singer, songwriter, and musician",+1961-05-17T00:00:00Z,11,Q693164,,,Q693164
+Q38304,Ēriks Pētersons,Latvian footballer and hockey player,+1909-08-14T00:00:00Z,11,Q1773,+1987-01-01T00:00:00Z,9,Q1773
+Q38319,Master of the Blue Jeans,anonymous Italian painter,+1700-01-01T00:00:00Z,7,Q38,,,Q38
+Q38334,Steven Halko,Canadian ice hockey player,+1974-03-08T00:00:00Z,11,Q1020159,,,Q1020159
+Q38351,A. O. Scott,American journalist and film critic,+1966-07-10T00:00:00Z,11,Q49186,,,Q49186
+Q38484,Romano Prodi,Italian politician and economist,+1939-08-09T00:00:00Z,11,Q111289,,,Q111289
+Q38573,Walter Jens,"German philologist, literature historian, critic, university professor and writer",+1923-03-08T00:00:00Z,11,Q1055,+2013-06-09T00:00:00Z,11,Q1055
+Q38581,Brigitte Oertli,alpine skier,+1962-06-10T00:00:00Z,11,Q64877,,,Q64877
+Q38640,Gabriel of Lovech,Bulgarian bishop,+1950-07-16T00:00:00Z,11,Q472,,,Q472
+Q38680,Ľubomír Kolník,Slovak ice hockey player,+1968-01-23T00:00:00Z,11,Q26397,,,Q26397
+Q38794,Rildo da Costa Menezes,Brazilian footballer,+1942-01-23T00:00:00Z,11,Q8678,,,Q8678
+Q38989,Fernando Gamboa,retired Argentine footballer and coach,+1970-10-28T00:00:00Z,11,Q1016881,,,Q1016881
+Q39224,Hoodie Allen,American hip hop musician,+1988-08-19T00:00:00Z,11,Q3476984,,,Q3476984
+Q39259,Recep Tayyip Erdoğan,12th President of Turkey from 2014,+1954-02-26T00:00:00Z,11,Q1775820,,,Q1775820
+Q39301,Wilfried Dietrich,West German wrestler,+1933-10-14T00:00:00Z,11,Q23002,+1992-06-03T00:00:00Z,11,Q23002
+Q39318,Naftali Bennett,Israeli politician,+1972-03-25T00:00:00Z,11,Q41621,,,Q41621
+Q39343,Tomita Yoshirō,Japanese geographer,+1895-04-08T00:00:00Z,11,Q37951,+1982-01-08T00:00:00Z,11,Q37951
+Q39378,Radovan Zogović,Montenegrin poet,+1907-08-19T00:00:00Z,11,Q211195,+1986-01-05T00:00:00Z,11,Q211195
+Q39593,Butch Otter,American businessman and politician,+1942-05-03T00:00:00Z,11,Q849592,,,Q849592
+Q39595,Ptolemy IV Philopator,Egyptian pharaoh,-0244-01-01T00:00:00Z,9,,-0205-01-01T00:00:00Z,9,
+Q39672,Matt Sorum,"Rock drummer, percussionist, most notably with Guns N' Roses",+1960-11-19T00:00:00Z,11,Q773853,,,Q773853
+Q39691,Johann Ludwig Burckhardt,Swiss traveller and writer,+1784-11-24T00:00:00Z,11,Q807,+1817-10-15T00:00:00Z,11,Q807
+Q39746,Jonathan Ayité,Togolese footballer,+1985-07-21T00:00:00Z,11,Q1479,,,Q1479
+Q39749,Tripy Makonda,French footballer,+1990-01-24T00:00:00Z,11,Q193877,,,Q193877
+Q39805,Maria Kulle,Swedish actress,+1960-04-26T00:00:00Z,11,Q2913597,,,Q2913597
+Q39976,Ptolemy VII Neos Philopator,Egyptian pharaoh,-0152-01-01T00:00:00Z,9,,-0144-01-01T00:00:00Z,9,
+Q39978,Nostradamus,French apothecary and reputed seer,+1503-12-14T00:00:00Z,11,Q221507,+1566-07-02T00:00:00Z,11,Q221507
+Q39987,Ann Brashares,American children's writer,+1967-07-30T00:00:00Z,11,Q88,,,Q88
+Q40002,Lucy Griffiths,English actress,+1986-10-10T00:00:00Z,11,Q131491,,,Q131491
+Q40064,Blythe Danner,American actress,+1943-02-03T00:00:00Z,11,Q1345,,,Q1345
+Q40079,Bulgarus,twelfth-century Italian jurist,+1085-00-00T00:00:00Z,9,Q1891,+1166-01-01T00:00:00Z,11,Q1891
+Q40090,Chandra Wilson,American actress and director,+1969-08-27T00:00:00Z,11,Q16555,,,Q16555
+Q40103,Toby Stephens,"British stage, television and film actor",+1969-04-21T00:00:00Z,11,Q84,,,Q84
+Q40110,Muhammad Jamalul Alam II,Sultan of Brunei,+1889-01-01T00:00:00Z,9,Q921,+1924-09-11T00:00:00Z,11,Q921
+Q40111,Ahmad Tajuddin of Brunei,Sultan of Brunei,+1913-08-22T00:00:00Z,11,Q9279,+1950-06-03T00:00:00Z,11,Q9279
+Q40501,Raúl Valerio,Mexican actor,+1925-01-01T00:00:00Z,11,,+2017-01-25T00:00:00Z,11,
+Q40515,Trahamunda,Spanish nun,,,Q3908,,,Q3908
+Q40628,Tammy Baldwin,United States Senator from Wisconsin,+1962-02-11T00:00:00Z,11,Q43788,,,Q43788
+Q40662,John the Baptist,major religious figure,-0007-00-00T00:00:00Z,9,Q1022487,+0032-00-00T00:00:00Z,9,Q1022487
+Q40670,Henryk Ehrlich,Polish socialist,+1882-01-01T00:00:00Z,9,Q37333,+1942-05-15T00:00:00Z,11,Q37333
+Q40722,Dilma Rousseff,36th President of Brazil,+1947-12-14T00:00:00Z,11,Q42800,,,Q42800
+Q40740,Lorenzina de' Medici,Italian noblewoman,+1547-01-01T00:00:00Z,9,Q641,+1590-01-01T00:00:00Z,9,Q641
+Q40852,Edward Jenner,"English physician, scientist and pioneer of vaccination",+1749-05-17T00:00:00Z,11,Q584443,+1823-01-26T00:00:00Z,11,Q584443
+Q40874,Doris Lessing,"British novelist, poet, playwright, librettist, biographer and short story writer",+1919-10-22T00:00:00Z,11,Q180078,+2013-11-17T00:00:00Z,11,Q180078
+Q40933,Eva Perón,Argentinian actress and politician,+1919-05-07T00:00:00Z,11,Q1020277,+1952-07-26T00:00:00Z,11,Q1020277
+Q40946,Daniel Defoe,"English trader, writer and journalist",+1660-09-13T00:00:00Z,11,Q1619586,+1731-04-24T00:00:00Z,11,Q1619586
+Q41148,Martin Scorsese,"American-Italian film director, screenwriter aslo producer and actor",+1942-11-17T00:00:00Z,11,Q18424,,,Q18424
+Q41421,Michael Jordan,American basketball player and businessman,+1963-02-17T00:00:00Z,11,Q18419,,,Q18419
+Q41438,Sergiusz Gajek,Belarusian priest,+1949-02-08T00:00:00Z,11,Q2261533,,,Q2261533
+Q41486,Helen Greiner,"American computer scientist, engineer and entrepreneur",+1967-12-06T00:00:00Z,11,Q84,,,Q84
+Q41508,Ludwig Mies van der Rohe,German architect,+1886-03-27T00:00:00Z,11,Q1017,+1969-08-17T00:00:00Z,11,Q1017
+Q41522,Ard Schenk,Dutch Olympic speed skater,+1944-09-16T00:00:00Z,11,Q562876,,,Q562876
+Q41557,Ruth Hayward,"American engineer, sculptor and philanthropist",+1934-07-29T00:00:00Z,11,Q49270,,,Q49270
+Q41575,Susan J. Helms,Lieutenant General in the United States Air Force and a former NASA astronaut,+1958-02-26T00:00:00Z,11,Q16565,,,Q16565
+Q41580,Axel Munthe,Swedish physician,+1857-10-31T00:00:00Z,11,Q10613018,+1949-02-11T00:00:00Z,11,Q10613018
+Q41590,Mircea Eliade,"Romanian historian of religion, fiction writer and philosopher",+1907-03-09T00:00:00Z,11,Q19660,+1986-04-22T00:00:00Z,11,Q19660
+Q41593,Bhagwat Sharan Agarwal,Indian writer,,,,,,
+Q41606,Kathryn P. Hire,NASA astronaut and Captain in the U.S. Navy Reserve,+1959-08-26T00:00:00Z,11,Q79875,,,Q79875
+Q41616,Steve Mahre,alpine skier,+1957-05-10T00:00:00Z,11,Q499203,,,Q499203
+Q41651,Kristina M. Johnson,"American former government official, academic, engineer, and business executive",+1958-00-00T00:00:00Z,9,Q38022,,,Q38022
+Q41652,Michael I Rangabe,byzantine emperor,+0770-00-00T00:00:00Z,9,,+0844-01-11T00:00:00Z,11,
+Q41657,Romanos III Argyros,Byzantine emperor,+0968-01-01T00:00:00Z,9,Q7428276,+1034-04-11T00:00:00Z,11,Q7428276
+Q41683,Thucydides,Greek historian and Athenian general,-0460-01-01T00:00:00Z,8,Q844930,-0397-12-27T00:00:00Z,8,Q844930
+Q41708,Andreas Wenzel,alpine skier,+1958-03-18T00:00:00Z,11,Q49660,,,Q49660
+Q41778,Åsmund Forfang,Norwegian writer,+1952-05-22T00:00:00Z,11,Q500284,,,Q500284
+Q41792,Harry Haslam,field hockey player,+1883-02-07T00:00:00Z,11,,+1955-02-07T00:00:00Z,11,
+Q41828,Alexander Solodukha,Belarusian pop singer,+1959-01-18T00:00:00Z,11,Q193722,,,Q193722
+Q41838,Michael V Kalaphates,Byzantine emperor,+1015-01-01T00:00:00Z,9,Q622032,+1042-08-24T00:00:00Z,11,Q622032
+Q41895,Kenny Miller,Scottish association football player,+1979-12-23T00:00:00Z,11,Q23436,,,Q23436
+Q41920,Hew Fraser,Scottish field hockey player,+1877-07-25T00:00:00Z,11,Q4093,+1938-08-11T00:00:00Z,11,Q4093
+Q41921,Rosa Parks,African-American civil rights activist,+1913-02-04T00:00:00Z,11,Q79718,+2005-10-24T00:00:00Z,11,Q79718
+Q41980,Democritus,"Ancient Greek philosopher, pupil of Leucippus, founder of the atomic theory",-0460-01-01T00:00:00Z,8,Q188615,-0360-01-01T00:00:00Z,8,Q188615
+Q42076,Tolga Tekinalp,Turkish basketball player,+1974-12-28T00:00:00Z,11,Q599416,,,Q599416
+Q42079,Rickie Winslow,retired American professional basketball player,+1964-07-26T00:00:00Z,11,Q16555,,,Q16555
+Q42156,Henri Bergson,French philosopher,+1859-10-18T00:00:00Z,11,Q90,+1941-01-04T00:00:00Z,11,Q90
+Q42180,Israel Kamakawiwoʻole,Hawaiian musician,+1959-05-20T00:00:00Z,11,Q18094,+1997-06-26T00:00:00Z,11,Q18094
+Q42181,Peter Berke,18th century Croatian writer,+1733-00-00T00:00:00Z,9,Q2280139,+1798-00-00T00:00:00Z,9,Q2280139
+Q42255,Dejan Koturović,Serbian basketball player,+1972-03-31T00:00:00Z,11,Q3711,,,Q3711
+Q42552,Wisława Szymborska,"Polish poet, Nobel Prize winner",+1923-07-02T00:00:00Z,11,Q51408,+2012-02-01T00:00:00Z,11,Q51408
+Q42731,Fernando Torres,Spanish association football player,+1984-03-20T00:00:00Z,11,Q54902,,,Q54902
+Q42838,Leif Erikson,"Norse explorer, discoverer of New Foundland",+0970-00-00T00:00:00Z,9,Q62389,+1020-00-00T00:00:00Z,9,Q62389
+Q42930,Dustin Hoffman,American actor,+1937-08-08T00:00:00Z,11,Q65,,,Q65
+Q42985,Ivan Pavlov,Russian physiologist,+1849-09-14T00:00:00Z,11,Q2746,+1936-02-27T00:00:00Z,11,Q2746
+Q43264,Manoel de Oliveira,Portuguese film director,+1908-12-11T00:00:00Z,11,Q36433,+2015-04-02T00:00:00Z,11,Q36433
+Q43360,Alfred de Rauch,French ice hockey player,+1887-06-13T00:00:00Z,11,Q270,+2000-01-01T00:00:00Z,7,Q270
+Q43362,Léonhard Quaglia,French ice hockey player and speed skater,+1896-01-04T00:00:00Z,11,Q654153,+1961-03-05T00:00:00Z,11,Q654153
+Q43392,David E. Aspnes,American physicist,+1939-05-01T00:00:00Z,11,Q43788,,,Q43788
+Q43522,Antonie van Leeuwenhoek,Dutch tradesman and scientist,+1632-10-24T00:00:00Z,11,Q33432813,+1723-08-26T00:00:00Z,11,Q33432813
+Q43527,Sitting Bull,Hunkpapa Lakota medicine man and holy man,+1831-01-01T00:00:00Z,9,Q1542869,+1890-12-15T00:00:00Z,11,Q1542869
+Q43558,Flore,French photographer,+1963-08-23T00:00:00Z,11,Q7880,,,Q7880
+Q43615,Patrick Francis Sheehan,Nigerian catholic bishop (1932-2012),+1932-05-28T00:00:00Z,11,Q1124843,+2012-11-08T00:00:00Z,11,Q1124843
+Q43661,Dmitri Kukharchuk,Russian footballer,+1992-07-27T00:00:00Z,11,Q2592,,,Q2592
+Q43689,Ambrose,bishop of Milan; one of the four original doctors of the Church,+0339-01-01T00:00:00Z,9,Q3138,+0397-04-04T00:00:00Z,11,Q3138
+Q43715,Vlad Tepes,Prince of Wallachia,+1431-00-00T00:00:00Z,9,Q193001,+1476-12-14T00:00:00Z,11,Q193001
+Q43749,Kazimierz Nycz,Catholic cardinal,+1950-02-01T00:00:00Z,11,Q3872963,,,Q3872963
+Q43752,Florian Heller,German footballer,+1982-03-10T00:00:00Z,11,Q4007,,,Q4007
+Q43761,Christoph Süß,German entertainer,+1967-12-17T00:00:00Z,11,Q262879,,,Q262879
+Q43768,Heinz Zemanek,Austrian computer pioneer,+1920-01-01T00:00:00Z,11,Q1741,+2014-07-16T00:00:00Z,11,Q1741
+Q43775,Black Hawk,Sans Arc Lakota ledger artist,+1832-01-01T00:00:00Z,9,Q1211,+1890-01-01T00:00:00Z,9,Q1211
+Q43789,Helmut Eckl,German writer,+1947-11-20T00:00:00Z,11,,,,
+Q43815,Josef Struber,,+1773-02-13T00:00:00Z,11,Q255361,+1845-07-19T00:00:00Z,11,Q255361
+Q43825,Gert Steinbäcker,Austrian singer,+1952-11-27T00:00:00Z,11,Q13298,,,Q13298
+Q43834,Clementina de Jesus,Brazilian singer,+1901-02-07T00:00:00Z,11,Q1005931,+1987-07-19T00:00:00Z,11,Q1005931
+Q43840,Irina Kiseleva,,+1967-07-23T00:00:00Z,11,Q649,,,Q649
+Q43841,Heinz Paula,German politician,+1951-05-24T00:00:00Z,11,Q257160,,,Q257160
+Q43855,Bence Szabolcsi,historian,+1899-08-02T00:00:00Z,11,Q1781,+1973-01-21T00:00:00Z,11,Q1781
+Q43858,Gusztáv Oláh,"Hungarian theatre director, teacher",+1901-08-20T00:00:00Z,11,Q1781,+1956-12-19T00:00:00Z,11,Q1781
+Q43862,Stefan Marquard,German cook,+1965-01-01T00:00:00Z,9,Q4126,,,Q4126
+Q43881,Bernd Helfrich,German actor,+1945-08-30T00:00:00Z,11,Q1726,,,Q1726
+Q43890,Norbert Gastell,German actor and voice actor,+1929-10-14T00:00:00Z,11,Q1486,+2015-11-26T00:00:00Z,11,Q1486
+Q43922,Leo XIII,256th Pope of the Catholic Church,+1810-03-02T00:00:00Z,11,Q242000,+1903-07-20T00:00:00Z,11,Q242000
+Q43932,Angus Young,Scottish Australian guitarist,+1955-03-31T00:00:00Z,11,Q4093,,,Q4093
+Q43943,José Touré,French footballer,+1961-04-24T00:00:00Z,11,Q40898,,,Q40898
+Q43945,Jude the Apostle,one of the Twelve Apostles of Jesus; traditionally identified with Jude the brother of Jesus,+0015-00-00T00:00:00Z,8,Q83241,+0062-00-00T00:00:00Z,9,Q83241
+Q43959,Tammy Lynn Sytch,American professional wrestling manager and actress,+1972-12-07T00:00:00Z,11,Q1082606,,,Q1082606
+Q43961,Hedwig of Saxony,Mother of Hugh Capet,+0922-00-00T00:00:00Z,9,,+0965-05-10T00:00:00Z,11,
+Q43971,Edno Roberto Cunha,Brazilian association football player,+1983-05-31T00:00:00Z,11,Q762009,,,Q762009
+Q43988,Victor Hermans,Dutch association football player,+1953-03-17T00:00:00Z,11,Q1309,,,Q1309
+Q44032,Egon Schiele,Austrian painter,+1890-06-12T00:00:00Z,11,Q489810,+1918-10-31T00:00:00Z,11,Q489810
+Q44039,Ludwig II of Bavaria,King of Bavaria,+1845-08-25T00:00:00Z,11,Q1726,+1886-06-13T00:00:00Z,11,Q1726
+Q44115,Zeynel Doğan,Kurdish film director and actor,+1979-10-10T00:00:00Z,11,Q117181,,,Q117181
+Q44125,Diana Žiliūtė,Lithuanian cyclist,+1976-05-28T00:00:00Z,11,Q712011,,,Q712011
+Q44131,Werner Herzog,"German film director, producer, screenwriter, actor and opera director",+1942-09-05T00:00:00Z,11,Q1726,,,Q1726
+Q44175,Norayr Vardanyan,Armenian weightlifter,+1987-05-15T00:00:00Z,11,Q199500,,,Q199500
+Q44222,Ulrich Schreck,fencer,+1962-03-11T00:00:00Z,11,Q61724,,,Q61724
+Q44271,Riona Hazuki,Japanese actress,+1975-07-11T00:00:00Z,11,Q1490,,,Q1490
+Q44274,Jörg Haider,Austrian politician,+1950-01-26T00:00:00Z,11,Q252674,+2008-10-11T00:00:00Z,11,Q252674
+Q44281,Ignatius of Loyola,"Catholic Saint, founder of the Society of Jesus (the Jesuits)",+1491-10-23T00:00:00Z,11,Q56396139,+1556-07-31T00:00:00Z,11,Q56396139
+Q44286,Rudolf Mössbauer,german nuclear physicist,+1929-01-31T00:00:00Z,11,Q1726,+2011-09-14T00:00:00Z,11,Q1726
+Q44291,Mohd Zakry Abdul Latif,badminton player,+1983-04-02T00:00:00Z,11,Q213893,,,Q213893
+Q44339,Vardan Pahlevanyan,Armenian long jumper,+1988-02-27T00:00:00Z,11,Q1953,,,Q1953
+Q44340,Uli Hoeneß,German footballer and manager,+1952-01-05T00:00:00Z,11,Q3012,,,Q3012
+Q44341,Guillermo Betancourt,fencer,+1963-07-19T00:00:00Z,11,,,,
+Q44362,Theo Rossi,American actor,+1975-06-04T00:00:00Z,11,Q18432,,,Q18432
+Q44383,Tarcisio Bertone,cardinal of the Catholic Church,+1934-12-02T00:00:00Z,11,Q10237,,,Q10237
+Q44407,Ronald Golias,Brazilian actor and comedian,+1929-05-04T00:00:00Z,11,Q194338,+2005-09-27T00:00:00Z,11,Q194338
+Q44412,Hans Christian Ørsted,Danish physicist and chemist,+1777-08-14T00:00:00Z,11,Q731023,+1851-03-09T00:00:00Z,11,Q731023
+Q44413,Philippe Omnès,fencer,+1960-08-06T00:00:00Z,11,Q90,,,Q90
+Q44428,Ray Lewis,"American football linebacker, Pro Football Hall of Famer",+1975-05-15T00:00:00Z,11,Q809580,,,Q809580
+Q44433,Pape Alioune Diouf,Senegalese footballer,+1989-06-22T00:00:00Z,11,Q3718,,,Q3718
+Q44446,Andreas Markusson,Norwegian writer,+1893-03-07T00:00:00Z,11,Q59101,+1952-10-31T00:00:00Z,11,Q59101
+Q44449,Randy Orton,American professional wrestler,+1980-04-01T00:00:00Z,11,Q185582,,,Q185582
+Q44450,Roger Aaron Brown,American actor,+1949-06-12T00:00:00Z,11,Q61,,,Q61
+Q44507,Edmund Stoiber,German politician,+1941-09-28T00:00:00Z,11,Q524660,,,Q524660
+Q44527,Ryan Fraser,Scottish association football player,+1994-02-24T00:00:00Z,11,Q36405,,,Q36405
+Q44534,Tiziano Terzani,Italian journalist and writer,+1938-09-14T00:00:00Z,11,Q2044,+2004-07-28T00:00:00Z,11,Q2044
+Q44555,Crazy Horse,Oglala Sioux chief,+1840-00-00T00:00:00Z,9,Q1211,+1877-09-05T00:00:00Z,11,Q1211
+Q44575,Eduardo Galeano,Uruguayan writer,+1940-09-03T00:00:00Z,11,Q1335,+2015-04-13T00:00:00Z,11,Q1335
+Q44601,Francesco Guicciardini,"Italian writer, historian and politician",+1483-03-06T00:00:00Z,11,Q2044,+1540-05-22T00:00:00Z,11,Q2044
+Q44607,Arman Yeremyan,Armenian taekwondo practitioner,+1986-01-29T00:00:00Z,11,Q1953,,,Q1953
+Q44616,Wyatt Earp,American gambler and frontier marshal,+1848-03-19T00:00:00Z,11,Q577638,+1929-01-13T00:00:00Z,11,Q577638
+Q44624,Peter Canisius,"Dutch, Jesuit priest, Doctor of the Church, Roman Catholic saint",+1521-05-08T00:00:00Z,11,Q47887,+1597-12-21T00:00:00Z,11,Q47887
+Q44635,Moïse Brou Apanga,footballer,+1982-02-04T00:00:00Z,11,Q1515,+2017-04-26T00:00:00Z,11,Q1515
+Q44643,Bertrand Laquait,French footballer,+1977-04-13T00:00:00Z,11,Q93351,,,Q93351
+Q44647,Otfried Preußler,German children's books author,+1923-10-20T00:00:00Z,11,Q146351,+2013-02-18T00:00:00Z,11,Q146351
+Q44652,Christian Morgenstern,German author,+1871-05-06T00:00:00Z,11,Q1726,+1914-03-31T00:00:00Z,11,Q1726
+Q44653,Malcolm Young,Scottish guitarist,+1953-01-06T00:00:00Z,11,Q4093,+2017-11-18T00:00:00Z,11,Q4093
+Q44682,Alexandre Alphonse,French footballer,+1982-06-17T00:00:00Z,11,Q90,,,Q90
+Q44683,"Chavo Guerrero, Jr.",American professional wrestler,+1969-10-20T00:00:00Z,11,Q16562,,,Q16562
+Q44702,Brahim Ferradj,Algerian footballer,+1987-09-04T00:00:00Z,11,Q42716,,,Q42716
+Q44738,Itzik Feffer,Soviet poet,+1900-11-23T00:00:00Z,11,Q145957,+1952-08-12T00:00:00Z,11,Q145957
+Q44741,Francisco Pizarro,Spanish conquistador who conquered the Inca Empire,+1478-03-16T00:00:00Z,11,Q324489,+1541-06-26T00:00:00Z,11,Q324489
+Q44771,Günther Beckstein,German politician,+1943-11-23T00:00:00Z,11,Q502865,,,Q502865
+Q44842,Giovanni Battista Re,Italian cardinal,+1934-01-30T00:00:00Z,11,Q6221,,,Q6221
+Q44871,Igor Stamenovski,Macedonian footballer,+1980-06-16T00:00:00Z,11,Q157738,,,Q157738
+Q44881,Andreas Hamran Færø,Norwegian artist,+1979-01-01T00:00:00Z,9,Q26793,,,Q26793
+Q44911,Joseph Maria Olbrich,Austrian architect,+1867-12-22T00:00:00Z,11,Q156080,+1908-08-08T00:00:00Z,11,Q156080
+Q44927,Joseph Lanner,Austrian dance music composer,+1801-04-12T00:00:00Z,11,Q1764894,+1843-04-14T00:00:00Z,11,Q1764894
+Q44972,Peter Altenberg,Austrian writer and poet,+1859-03-09T00:00:00Z,11,Q1741,+1919-01-08T00:00:00Z,11,Q1741
+Q45001,Blind Lemon Jefferson,American blues singer and guitarist,+1893-09-24T00:00:00Z,11,Q1137897,+1929-12-19T00:00:00Z,11,Q1137897
+Q45006,Franz Stuck,German painter and sculptor,+1863-02-23T00:00:00Z,11,Q506272,+1928-08-30T00:00:00Z,11,Q506272
+Q45038,Iasmin Latovlevici,Romanian football player,+1986-05-11T00:00:00Z,11,Q829051,,,Q829051
+Q45105,Oswald von Wolkenstein,"poet, composer, and diplomat",+1377-01-01T00:00:00Z,9,Q1013962,+1445-08-02T00:00:00Z,11,Q1013962
+Q45111,John R. Neill,1877-1943; magazine and children's book illustrator,+1877-11-12T00:00:00Z,11,Q1345,+1943-09-13T00:00:00Z,11,Q1345
+Q45113,Moses Schönfinkel,Russian mathematician,+1889-09-04T00:00:00Z,11,Q48256,+1942-01-01T00:00:00Z,9,Q48256
+Q45133,Tané Matsukata,Japanese educator,+1918-01-01T00:00:00Z,9,,+1989-01-01T00:00:00Z,9,
+Q45141,Friedrich Wilhelm Raiffeisen,German economist,+1818-03-30T00:00:00Z,11,Q656322,+1888-03-11T00:00:00Z,11,Q656322
+Q45168,Brian Benben,actor,+1956-06-18T00:00:00Z,11,Q492355,,,Q492355
+Q45209,Poonsawat Kratingdaenggym,professional boxer from Thailand,+1980-11-20T00:00:00Z,11,Q476481,,,Q476481
+Q45221,Herbert Achternbusch,"German writer, actor and film director",+1938-11-23T00:00:00Z,11,Q1726,,,Q1726
+Q45253,Shinji Sōmai,film director,+1948-01-13T00:00:00Z,11,Q200077,+2001-09-09T00:00:00Z,11,Q200077
+Q45258,Alfred Kolleritsch,Austrian writer and poet,+1931-02-16T00:00:00Z,11,Q674462,,,Q674462
+Q45260,Hans Kohlhase,German merchant,+1500-01-01T00:00:00Z,9,Q202498,+1540-03-22T00:00:00Z,11,Q202498
+Q45278,Johann Michael Sailer,Catholic bishop,+1751-11-17T00:00:00Z,11,Q522443,+1832-05-20T00:00:00Z,11,Q522443
+Q45294,Eugen Roth,German poet,+1895-01-24T00:00:00Z,11,Q1726,+1976-04-28T00:00:00Z,11,Q1726
+Q45305,Barys Kit,American scientist,+1910-03-24T00:00:00Z,11,Q656,+2018-02-01T00:00:00Z,11,Q656
+Q45331,Juli Sánchez,Andorran footballer,+1978-06-20T00:00:00Z,11,Q1863,,,Q1863
+Q45346,Fernando de Buen y Lozano,Spanish zoologist,+1895-11-10T00:00:00Z,11,Q1492,+1962-05-06T00:00:00Z,11,Q1492
+Q45371,Werner Thissen,Catholic archbishop,+1938-12-03T00:00:00Z,11,Q6842,,,Q6842
+Q45383,Frank Zander,German actor-singer,+1942-02-04T00:00:00Z,11,Q64,,,Q64
+Q45387,Roberto Blanco,German singer,+1937-06-07T00:00:00Z,11,Q3572,,,Q3572
+Q45415,Rudolph Moshammer,German fashion designer,+1940-09-27T00:00:00Z,11,Q1726,+2005-01-14T00:00:00Z,11,Q1726
+Q45420,Yolande Louise of Savoy,Duchess of Savoy,+1487-07-11T00:00:00Z,11,Q71,+1499-09-12T00:00:00Z,11,Q71
+Q45439,Seth Bullock,Lawman,+1849-07-23T00:00:00Z,11,Q385335,+1919-09-23T00:00:00Z,11,Q385335
+Q45456,Ainsley Howard,British actress,+1983-05-00T00:00:00Z,10,Q23077,,,Q23077
+Q45465,Adeliza,"daughter of King William the Conqueror and his wife, Queen Matilda of Flanders",+1055-00-00T00:00:00Z,9,Q842091,,,Q842091
+Q45467,Indira Terrero,Spanish sprinter and middle-distance runner of Cuban descent,+1985-11-29T00:00:00Z,11,Q1563,,,Q1563
+Q45489,Klaus Küng,Austrian bishop,+1940-09-17T00:00:00Z,11,Q1737,,,Q1737
+Q45533,Sabrina Sabrok,"Argentine-born Mexican actress, model, pornographic performer, and musician",+1976-03-04T00:00:00Z,11,Q1486,,,Q1486
+Q45553,Robert J. Wilke,American actor (1914-1989),+1914-05-18T00:00:00Z,11,Q43196,+1989-03-28T00:00:00Z,11,Q43196
+Q45562,Gustav Pick,Austrian musician and composer,+1832-12-10T00:00:00Z,11,Q255604,+1921-04-29T00:00:00Z,11,Q255604
+Q45573,Eli Whiteside,American baseball catcher,+1979-10-22T00:00:00Z,11,Q1779875,,,Q1779875
+Q45579,Marie des Anges,Italian religious,+1661-01-07T00:00:00Z,11,Q495,+1717-12-16T00:00:00Z,11,Q495
+Q45580,Franz Stelzhamer,,+1802-11-29T00:00:00Z,11,,+1874-07-14T00:00:00Z,11,
+Q45587,Egon Biscan,German actor and theatre director,+1940-01-01T00:00:00Z,9,,,,
+Q45598,Woody Schabata,Austrian musician,+1955-01-01T00:00:00Z,9,Q1741,,,Q1741
+Q45610,Acker Bilk,English recording artist; clarinetist and vocalist,+1929-01-28T00:00:00Z,11,Q3073481,+2014-11-02T00:00:00Z,11,Q3073481
+Q45765,Jack London,"American author, journalist, and social activist",+1876-01-12T00:00:00Z,11,Q62,+1916-11-22T00:00:00Z,11,Q62
+Q45766,Mario Gómez,German association football player,+1985-07-10T00:00:00Z,11,Q505967,,,Q505967
+Q45827,Stephanie Szostak,French actress,+1975-06-12T00:00:00Z,11,Q142,,,Q142
+Q45830,Silje Solberg,Norwegian handball player,+1990-06-16T00:00:00Z,11,Q57076,,,Q57076
+Q45857,Willy Kurant,Belgian cinematographer,+1934-02-15T00:00:00Z,11,Q3992,,,Q3992
+Q45979,Behramji Malabari,Indian poet and social reformer,+1853-05-18T00:00:00Z,11,Q11909,+1912-07-12T00:00:00Z,11,Q11909
+Q46048,Andreas Stadler,Austrian weightlifter,+1898-07-31T00:00:00Z,11,Q1741,+1941-02-14T00:00:00Z,11,Q1741
+Q46087,Anouk,Dutch singer-songwriter and producer,+1975-04-08T00:00:00Z,11,Q36600,,,Q36600
+Q46092,Ronald Florijn,Dutch rower,+1961-04-21T00:00:00Z,11,Q43631,,,Q43631
+Q46110,Herbert Chipp,British tennis player,+1850-01-04T00:00:00Z,11,Q84,+1903-08-25T00:00:00Z,11,Q84
+Q46128,Tyler Jewell,American snowboarder,+1977-02-21T00:00:00Z,11,Q100,,,Q100
+Q46219,Jurgis Tiškevičius Logoiskis,Grand Duchy of Lithuania nobleman,+1518-00-00T00:00:00Z,9,,+1576-01-01T00:00:00Z,9,
+Q46259,Kim Il-yeop,"Korean writer, poet, journalist, Buddhist nun and activist",+1896-04-28T00:00:00Z,11,Q712209,+1971-02-01T00:00:00Z,11,Q712209
+Q46419,Solomonia Pylaïeva,,+1930-02-28T00:00:00Z,11,Q2143,,,Q2143
+Q46434,Hetty Blok,"Dutch cabaret artist, singer, and actress",+1920-01-06T00:00:00Z,11,Q1310,+2012-11-06T00:00:00Z,11,Q1310
+Q46448,Raffaëla Paton,Dutch singer,+1983-06-01T00:00:00Z,11,Q727,,,Q727
+Q46479,Zarah Leander,Swedish actress and singer,+1907-03-15T00:00:00Z,11,Q10543924,+1981-06-23T00:00:00Z,11,Q10543924
+Q46677,Melissa Benoist,American actress,+1988-10-04T00:00:00Z,11,Q953583,,,Q953583
+Q46750,Valerian,Roman emperor,+0200-01-01T00:00:00Z,9,,+0260-00-00T00:00:00Z,8,
+Q46782,Stanley Bacon,Olympic wrestler,+1885-08-13T00:00:00Z,11,Q385060,+1952-10-13T00:00:00Z,11,Q385060
+Q46814,Flavius Valerius Severus,Roman emperor,+0300-01-01T00:00:00Z,7,Q32047,+0307-02-16T00:00:00Z,11,Q32047
+Q46830,Robert Hooke,"English natural philosopher, architect and polymath",+1635-07-18T00:00:00Z,11,Q2428909,+1703-03-03T00:00:00Z,11,Q2428909
+Q46846,Valentinian II,Roman Emperor,+0371-01-01T00:00:00Z,9,Q3138,+0392-05-15T00:00:00Z,11,Q3138
+Q46868,I. M. Pei,Chinese-American architect,+1917-04-26T00:00:00Z,11,Q16572,+2019-05-16T00:00:00Z,11,Q16572
+Q46930,Khaled Mashal,Palestinian politician,+1956-05-28T00:00:00Z,11,Q684632,,,Q684632
+Q47111,Şems Kemal Tunçeri,Turkish basketball player,+1974-08-30T00:00:00Z,11,Q406,,,Q406
+Q47120,David Oistrakh,Soviet violinist,+1908-09-17T00:00:00Z,11,Q1874,+1974-10-24T00:00:00Z,11,Q1874
+Q47122,Enrique Iglesias,Spanish singer-songwriter,+1975-05-08T00:00:00Z,11,Q2807,,,Q2807
+Q47149,Sylvester I,33rd pope and saint,+0300-01-01T00:00:00Z,7,Q220,+0335-12-31T00:00:00Z,11,Q220
+Q47156,Srinibash Udgata,"Indian writer, translator from Odisha",+1935-01-07T00:00:00Z,11,Q632816,,,Q632816
+Q47179,Airlangga,Monarch of Javanese Hindu kingdom Kahuripan,+0991-01-01T00:00:00Z,9,,+1049-01-01T00:00:00Z,9,
+Q47185,Anne Anderson,Scottish illustrator known best for new editions of fairy tales and other stories for children,+1874-01-01T00:00:00Z,9,Q22,+1952-05-26T00:00:00Z,11,Q22
+Q47243,Elfriede Jelinek,Austrian writer,+1946-10-20T00:00:00Z,11,Q492868,,,Q492868
+Q47306,Angela Fong,Canadian professional wrestler and model,+1985-02-03T00:00:00Z,11,Q24639,,,Q24639
+Q47309,Takeshi Motoyoshi,Japanese association football player,+1967-07-26T00:00:00Z,11,Q38283,,,Q38283
+Q47327,Kenji Sakaguchi,Japanese association football player,+1975-03-05T00:00:00Z,11,Q128186,,,Q128186
+Q47364,Paulo Rodrigues Barc,Brazilian association football player,+1960-05-10T00:00:00Z,11,Q155,,,Q155
+Q47396,Hiroshi Saito,Japanese association football player,+1970-11-13T00:00:00Z,11,Q1490,,,Q1490
+Q47516,Pierre Littbarski,German association football player,+1960-04-16T00:00:00Z,11,Q56036,,,Q56036
+Q47517,Dragiša Binić,Serbian association football player,+1961-10-20T00:00:00Z,11,Q201442,,,Q201442
+Q47522,Milena Gabanelli,Italian journalist,+1954-06-09T00:00:00Z,11,Q102820,,,Q102820
+Q47529,Kim Hwang-sik,South Korean lawyer and politician,+1948-08-09T00:00:00Z,11,Q50320,,,Q50320
+Q47548,Víctor Valdés,Spanish footballer,+1982-01-14T00:00:00Z,11,Q15470,,,Q15470
+Q47561,Ivo Andrić,Yugoslav novelist,+1892-10-09T00:00:00Z,11,Q3033849,+1975-03-13T00:00:00Z,11,Q3033849
+Q47659,Tetsu Nagasawa,Japanese association football player,+1968-05-28T00:00:00Z,11,Q123376,,,Q123376
+Q47664,Catherine Zeta-Jones,Welsh actress and singer,+1969-09-25T00:00:00Z,11,Q23051,,,Q23051
+Q47678,Wisnuwardhana,,,,,+1268-00-00T00:00:00Z,9,
+Q47748,Agustina Mayangsari,Indonesian singer,+1971-08-23T00:00:00Z,11,Q650908,,,Q650908
+Q47756,Everton Nogueira,Brazilian association football player,+1959-12-12T00:00:00Z,11,Q1649607,,,Q1649607
+Q47757,Edson Rodrigues,Brazilian association football player,+1967-03-13T00:00:00Z,11,Q155,,,Q155
+Q47956,Shahriar Afshar,Iranian-American physicist,+1971-01-01T00:00:00Z,9,Q766617,,,Q766617
+Q48145,Kirill Meretskov,Soviet military commander,+1897-06-07T00:00:00Z,11,Q136692,+1968-12-30T00:00:00Z,11,Q136692
+Q48149,Fyodor Tolbukhin,Soviet military commander,+1894-06-04T00:00:00Z,11,Q2423,+1949-10-17T00:00:00Z,11,Q2423
+Q48246,Ernst Haeckel,"German biologist, naturalist, philosopher, physician, and artist",+1834-02-16T00:00:00Z,11,Q1711,+1919-08-09T00:00:00Z,11,Q1711
+Q48280,Marianne Faithfull,"British singer, songwriter and actress",+1946-12-29T00:00:00Z,11,Q25610,,,Q25610
+Q48376,Bhai Daya Singh,,+1661-00-00T00:00:00Z,9,,+1708-00-00T00:00:00Z,9,
+Q48379,Stephen Booth,British crime author and journalist,+1952-01-01T00:00:00Z,9,Q209096,,,Q209096
+Q48487,Hieronim Chodkiewicz,,+1560-01-01T00:00:00Z,9,,+1617-08-29T00:00:00Z,11,
+Q48515,Stevan Luketić,Croatian sculptor,+1925-11-08T00:00:00Z,11,Q174237,+2002-10-01T00:00:00Z,11,Q174237
+Q48544,Cosimo de' Medici,first ruler of the Medici political dynasty,+1389-09-27T00:00:00Z,11,Q2044,+1464-08-01T00:00:00Z,11,Q2044
+Q48549,Ronald McLean,gymnast,+1881-03-26T00:00:00Z,11,Q84,+1941-07-02T00:00:00Z,11,Q84
+Q48580,Jacob Opdahl,gymnast,+1894-01-15T00:00:00Z,11,Q26793,+1938-03-21T00:00:00Z,11,Q26793
+Q48589,Zenta Mauriņa,Latvian writer,+1897-12-15T00:00:00Z,11,Q753010,+1978-04-25T00:00:00Z,11,Q753010
+Q48602,Andrea Riccardi,Founder of the Community of Sant'Egidio,+1950-01-16T00:00:00Z,11,Q220,,,Q220
+Q48618,Arjan Bajwa,Indian actor,+1977-09-03T00:00:00Z,11,Q1156,,,Q1156
+Q48640,Radosław Kałużny,Polish footballer,+1974-02-02T00:00:00Z,11,Q746395,,,Q746395
+Q48648,Aranka Binder,Serbian sports shooter,+1966-06-19T00:00:00Z,11,Q204475,,,Q204475
+Q48653,Leon Szeptycki,,+1717-08-23T00:00:00Z,11,Q208473,+1779-05-25T00:00:00Z,11,Q208473
+Q48684,Francisco Javier de Elío,Spanish viceroy,+1767-01-01T00:00:00Z,9,Q10282,+1822-01-01T00:00:00Z,9,Q10282
+Q48714,Zbigniew Gutkowski,Polish skipper,+1973-06-24T00:00:00Z,11,Q1792,,,Q1792
+Q48738,Rolando Garbey,boxer,+1947-11-19T00:00:00Z,11,Q117040,,,Q117040
+Q48739,Harald Eia,Norwegian comedian,+1966-02-09T00:00:00Z,11,Q57076,,,Q57076
+Q48775,Mordechai Vanunu,Israeli activist,+1954-10-14T00:00:00Z,11,Q101625,,,Q101625
+Q48792,George Foster Shepley,"Union Army general, politician",+1819-01-01T00:00:00Z,11,Q1001891,+1878-07-20T00:00:00Z,11,Q1001891
+Q48842,Festus Ezeli,Nigerian basketball player,+1989-10-21T00:00:00Z,11,Q320704,,,Q320704
+Q48900,Ludovico Ariosto,Italian poet,+1474-09-08T00:00:00Z,11,Q13360,+1533-07-06T00:00:00Z,11,Q13360
+Q48965,Carl Wernicke,"German physician, anatomist, psychiatrist, and neuropathologist",+1848-05-15T00:00:00Z,11,Q329833,+1905-06-15T00:00:00Z,11,Q329833
+Q48979,Richard Laurence Millington Synge,British biochemist,+1914-10-28T00:00:00Z,11,Q24826,+1994-08-18T00:00:00Z,11,Q24826
+Q48996,Randy Brecker,American musician,+1945-11-27T00:00:00Z,11,Q206988,,,Q206988
+Q49038,Mary Macaulay,American telegraph operator & labor union official,+1865-01-27T00:00:00Z,11,,+1944-07-19T00:00:00Z,11,
+Q49080,Isaak Babel,"Russian language journalist, playwright, literary translator, and short story writer",+1894-06-30T00:00:00Z,11,Q1874,+1940-01-27T00:00:00Z,11,Q1874
+Q49214,Dan Quayle,"American politician, lawyer",+1947-02-04T00:00:00Z,11,Q6346,,,Q6346
+Q49216,Walter Mondale,42nd Vice President of the United States,+1928-01-05T00:00:00Z,11,Q2231880,,,Q2231880
+Q49264,Lisa Nowak,American naval flight officer and NASA astronaut,+1963-05-10T00:00:00Z,11,Q61,,,Q61
+Q49282,Dorothée Pullinger,"British automobile engineer and businesswoman, and a pioneering woman engineer",+1894-01-13T00:00:00Z,11,Q507569,+1986-01-28T00:00:00Z,11,Q507569
+Q49338,Mpu Prapanca,"Mpu Prapanca was the author of the epic poem Nagarakertagama, written in Old Javanese",+1300-01-01T00:00:00Z,9,,+1350-01-01T00:00:00Z,9,
+Q49355,James Bryant Conant,American chemist,+1893-03-26T00:00:00Z,11,Q100,+1978-02-11T00:00:00Z,11,Q100
+Q49356,Ira Remsen,American chemist,+1846-02-10T00:00:00Z,11,Q60,+1927-03-04T00:00:00Z,11,Q60
+Q49388,Georg Friedrich Haas,Austrian composer,+1953-08-16T00:00:00Z,11,Q13298,,,Q13298
+Q49448,Robert Nivelle,French artillery officer,+1856-10-15T00:00:00Z,11,Q157713,+1924-03-22T00:00:00Z,11,Q157713
+Q49492,Michael Chekhov,Russian actor and director,+1891-08-17T00:00:00Z,11,Q656,+1955-09-30T00:00:00Z,11,Q656
+Q49588,Franz Xaver Uhl,German politician,+1955-11-04T00:00:00Z,11,Q1526876,+2011-08-22T00:00:00Z,11,Q1526876
+Q49618,James Rhyne Killian,the 10th president of the Massachusetts Institute of Technology,+1904-07-24T00:00:00Z,11,Q3243604,+1988-01-29T00:00:00Z,11,Q3243604
+Q49636,Sunsiaré of Larcône,French author,+1935-06-28T00:00:00Z,11,Q471685,+1962-09-29T00:00:00Z,11,Q471685
+Q49698,Johann Alexander Döderlein,German historian,+1675-02-11T00:00:00Z,11,Q858179,+1745-10-23T00:00:00Z,11,Q858179
+Q49715,Adam Neuser,German theologian,+1530-01-01T00:00:00Z,9,Q503640,+1576-10-12T00:00:00Z,11,Q503640
+Q49744,Victor Horta,Belgian architect and designer,+1861-01-06T00:00:00Z,11,Q1296,+1947-09-08T00:00:00Z,11,Q1296
+Q49752,Pierre de Ronsard,French poet,+1524-09-11T00:00:00Z,11,Q2242004,+1585-12-27T00:00:00Z,11,Q2242004
+Q49767,François-René de Chateaubriand,"French writer, politician, diplomat and historian",+1768-09-04T00:00:00Z,11,Q163108,+1848-07-04T00:00:00Z,11,Q163108
+Q49774,Christian Cappek,German footballer,+1990-07-25T00:00:00Z,11,Q2749,,,Q2749
+Q49795,Vlad Munteanu,Romanian football player,+1981-01-16T00:00:00Z,11,Q10737004,,,Q10737004
+Q49806,Oliver Schröder,German footballer,+1980-06-11T00:00:00Z,11,Q64,,,Q64
+Q49815,Rob Levin,founder of the IRC network freenode,+1955-12-16T00:00:00Z,11,,+2006-09-16T00:00:00Z,11,
+Q49941,Ilona Staller,"Hungarian-born Italian pornographic actress, singer and politician",+1951-11-26T00:00:00Z,11,Q1781,,,Q1781
+Q49988,Nobuhide Minorikawa,Japanese politician of the Liberal Democratic Party,+1964-05-25T00:00:00Z,11,Q1044019,,,Q1044019
+Q49999,Akinori Eto,Japanese politician of the Liberal Democratic Party,+1955-10-12T00:00:00Z,11,Q646818,,,Q646818
+Q50026,Miyu Matsuki,Japanese voice actress,+1977-09-14T00:00:00Z,11,Q223439,+2015-10-27T00:00:00Z,11,Q223439
+Q50029,Minako Kotobuki,"Japanese actress, voice actress and singer",+1991-09-17T00:00:00Z,11,Q48320,,,Q48320
+Q50041,Nozomu Tamaki,Japanese manga artist,+1966-10-07T00:00:00Z,11,Q1490,,,Q1490
+Q50185,Louis Couperin,French Baroque composer,+1626-01-01T00:00:00Z,9,Q767562,+1661-08-29T00:00:00Z,11,Q767562
+Q50186,François Couperin,"French Baroque composer, organist and harpsichordist",+1668-11-10T00:00:00Z,11,Q90,+1733-09-11T00:00:00Z,11,Q90
+Q50612,Susan Rice,24th United States National Security Advisor,+1964-11-17T00:00:00Z,11,Q61,,,Q61
+Q50656,Zacharie Astruc,"French sculptor, painter, poet, and art critic",+1833-02-23T00:00:00Z,11,Q38380,+1907-05-24T00:00:00Z,11,Q38380
+Q50661,Kaya Yanar,German comedian,+1973-05-20T00:00:00Z,11,Q1794,,,Q1794
+Q50825,Stan Ridgway,American singer-songwriter and film and television composer,+1954-04-05T00:00:00Z,11,Q499174,,,Q499174
+Q50838,Anson Chan,Hong Kong politician,+1940-01-17T00:00:00Z,11,Q8686,,,Q8686
+Q50926,Zita of Bourbon-Parma,empress consort of Austria and queen consort of Hungary,+1892-05-09T00:00:00Z,11,Q216853,+1989-03-14T00:00:00Z,11,Q216853
+Q51002,Jerry Rawlings,Fourth President of the Republic of Ghana,+1947-06-22T00:00:00Z,11,Q3761,,,Q3761
+Q51024,Yi U,Prince of Korea (1912–1945),+1912-11-15T00:00:00Z,11,Q8684,+1945-08-07T00:00:00Z,11,Q8684
+Q51066,István Gulyás,Hungarian tennis player,+1931-10-13T00:00:00Z,11,Q45779,+2000-07-30T00:00:00Z,11,Q45779
+Q51109,Esther Szekeres,Hungarian–Australian mathematician,+1910-02-20T00:00:00Z,11,Q1781,+2005-08-28T00:00:00Z,11,Q1781
+Q51139,Alvin Stardust,English pop singer and stage actor,+1942-09-27T00:00:00Z,11,Q84,+2014-10-23T00:00:00Z,11,Q84
+Q51220,Peter Kupinski,Russian architect (1838-1923),+1838-01-01T00:00:00Z,9,,+1923-01-01T00:00:00Z,9,
+Q51448,Harald Glööckler,German fashion designer,+1965-01-01T00:00:00Z,9,Q80560,,,Q80560
+Q51490,George Stevens,American film director,+1904-12-18T00:00:00Z,11,Q17042,+1975-03-08T00:00:00Z,11,Q17042
+Q51519,Alan J. Pakula,"American film director, writer and producer",+1928-04-07T00:00:00Z,11,Q18426,+1998-11-19T00:00:00Z,11,Q18426
+Q51584,Gustav Leonhardt,"Dutch keyboard player, conductor, musicologist, teacher and editor",+1928-05-30T00:00:00Z,11,Q1615351,+2012-01-16T00:00:00Z,11,Q1615351
+Q51719,"Joscelin I, Count of Edessa",Count of Edessa,+1072-01-01T00:00:00Z,9,Q908694,+1131-01-01T00:00:00Z,9,Q908694
+Q51749,Ursula Sladek,German Entrepreneur,+1946-01-01T00:00:00Z,9,Q639902,,,Q639902
+Q51753,Elias Boudinot,American lawyer and statesman,+1740-05-02T00:00:00Z,11,Q1345,+1821-10-24T00:00:00Z,11,Q1345
+Q51765,Kuno von Klebelsberg,"Hungarian politician, Minister of Culture (1875–1932)",+1875-11-13T00:00:00Z,11,Q276132,+1932-10-12T00:00:00Z,11,Q276132
+Q51773,Heidemarie Stefanyshyn-Piper,American Naval officer and a former NASA astronaut,+1963-02-07T00:00:00Z,11,Q28848,,,Q28848
+Q51883,Dirk Walther Oetting,German non-fiction writer,+1938-01-01T00:00:00Z,9,Q64,,,Q64
+Q51959,Emma Cramer-Crummenerl,German writer,+1875-02-27T00:00:00Z,11,Q3893,+1964-01-01T00:00:00Z,11,Q3893
+Q52006,Pen-Ek Karaket,Thai taekwondo practitioner,+1990-03-18T00:00:00Z,11,Q1861,,,Q1861
+Q52249,Colette Audry,"French novelist, screenwriter, and critic",+1906-07-06T00:00:00Z,11,Q187796,+1990-10-20T00:00:00Z,11,Q187796
+Q52255,Emma Donoghue,"Irish novelist, playwright, short-story writer and historian",+1969-10-24T00:00:00Z,11,Q1761,,,Q1761
+Q52345,Oliver James,actor,+1980-06-01T00:00:00Z,11,Q1378748,,,Q1378748
+Q52354,Elmer McCollum,American biochemist,+1879-03-03T00:00:00Z,11,Q603029,+1967-11-15T00:00:00Z,11,Q603029
+Q52378,Sami Uotila,Finnish alpine skier,+1976-11-02T00:00:00Z,11,Q1757,,,Q1757

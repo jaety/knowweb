@@ -13,13 +13,13 @@ def wikidata(filename):
                 continue
 
 if __name__=="__main__":
-    filename = 'latest-all.json.bz2'
+    filename = '/data/latest-all.json.bz2'
 
     header = ['id','label','desc',
                 'birth_time','birth_precision','birth_place'
                 'death_time','death_precision','death_place'
             ]
-    with open('people.csv','w') as csvfile:
+    with open('/data/people.csv','w') as csvfile:
         csv_writer = csv.writer(csvfile)
         csv_writer.writerow(header)
         count = 0
@@ -31,6 +31,8 @@ if __name__=="__main__":
                         match = True
                 if match:
                     count += 1
+                    if count % 1000 == 0:
+                        print(count)
                     qid = pydash.get(record, 'id')
                     label = pydash.get(record, 'labels.en.value')
                     desc = pydash.get(record, 'descriptions.en.value')
@@ -45,7 +47,8 @@ if __name__=="__main__":
 
                     row = [qid, label, desc, birth_time, birth_prec, birth_place, death_time, death_prec, death_place]
                     csv_writer.writerow(row)
-                    print(row)
-            if count > 10:
-                break            
+                
+#                    print(row)
+#            if count > 10:
+#                break            
 
