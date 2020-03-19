@@ -16,7 +16,7 @@ if __name__=="__main__":
     filename = '/data/latest-all.json.bz2'
 
     header = ['id','label','desc',
-                'birth_time','birth_precision','birth_place'
+                'birth_time','birth_precision','birth_place',
                 'death_time','death_precision','death_place'
             ]
     with open('/data/people.csv','w') as csvfile:
